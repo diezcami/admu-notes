@@ -9,6 +9,7 @@
 
 ## Definition of History
 * **Study of the Past**: Large and Encompassing
+  * Not all events in the past have history
 * **Story**: Has characters, Plot and a Chronology
 * **Recorded**: Who, What, Where, Why
   * Written: Diary of Anne Frank, Jose Rizal's Letters
@@ -18,7 +19,10 @@
     * eg. Rizal wearing a coat in his monuments because of European influence
 * **Has a Value**: Kasaysayan - root word is Saysay, implies significance of value
 
-## Three Elements of History
-* **Time**
-* **Location or Space**
-* **Actors or Subjects**
+* **Three Elements of History**
+  * Time
+  * Location/Space
+  * Actors
+* *Can History exist without people?* 
+  * Study of history isn't about the actual event, but about the value or meaning of certain events to the lives of people
+  * History is not the search of the truth, evidence or facts - it's the search of meaning or value of what we do
