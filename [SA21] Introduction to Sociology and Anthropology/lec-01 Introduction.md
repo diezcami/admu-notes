@@ -48,3 +48,4 @@
     * Psychology: Examines individuals
     * Social Psychology: How context affects the person
     * Sociology: Social Groups
+      * Sociology is everything around you (People, Race/Gender/Ethnicity, Family, Knowledge, Stigmas/Racism, Common Culture), as everything that touches humanity is a part of society.
