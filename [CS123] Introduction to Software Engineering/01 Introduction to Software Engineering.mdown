@@ -1,0 +1,12 @@
+# Introduction to Software Engineering
+
+* **Software**
+  * Inclusive of programs and documentation
+  * Software Products
+    * Generic: Built for a general market
+    * Custom: Built for a single customer
+      * Cons: Cannot be reused anymore
+  * Software can be a good or service depending on its nature
+  * Everything is protected by licenses and contracts
+  * What makes software sellable and unique: Necessity, Productivity, Security, Reliability
+    * How do you know software's necessary?
