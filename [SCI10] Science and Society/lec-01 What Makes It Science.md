@@ -22,7 +22,6 @@
     * The old understanding is left behind, and a new concept is generated
     * Occurs when certain anomalies cannot be explained by the prevailing paradigm. The crisis brings about a change in world view.
     * eg. Geocentric Model, Transition from Ptolemaic to Copernican cosmology (The earth revolves around the sun)
-
 * **The Scientific Method, Objectivity and Creativity in Science**
   * The practice of science is a *continuous process* of making observations, making sense of hte observations, and testing/verifying that understanding.
   * Science is experimental

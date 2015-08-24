@@ -1,6 +1,5 @@
 # What Makes It Science?
 
-## What is Science? What is Technology?
 * **What is Science?**
   * A **rational** inquiry into **nature** to understand what is happening around us
     * Scientific Method: Logical Structure/ Rational

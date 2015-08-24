@@ -38,3 +38,4 @@
 ## Modern Developments
 * **George Herbert Mead**: Social Psychology
 * **Robert Park and Ernest Burgess**: Social Problems and Lives of criminals, drug addicts, prostitutes and juvenile delinquents
+* Trend: perfecting research methods and statistical techniques to the detriment of the earlier activist strain

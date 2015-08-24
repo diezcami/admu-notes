@@ -1,16 +1,22 @@
-# What Makes It Science?
+# Science and Technology
 
-* **What is Science?**
-  * A **rational** inquiry into **nature** to understand what is happening around us
-    * Scientific Method: Logical Structure/ Rational
-    * Nature: Object of the inquiry
-  * Two assumptions:
-    * There is regularity in nature
-    * The human mind can "know": We are capable of finding, knowing and understanding the regularity in nature
+* Read the book lol
+* Core differences between Technology and Science
+* Waves of Science
 
-* **What is Technology?**
-  * Human application of knowledge into the making of tools and the use of natural resources
-    * Knowledge: Non-material (Values, attitudes, beliefs, ideology)
-    * Tools: High and Low tech material - apparatus, activities and organizational networks
-  * Science is knowing *why*, while technology is knowing *how*
-  
+* Science and Technology have become the most important factor for **national economic growth and the source of competitive advantage**
+* S&T identifies as the **principal means to fuel the nation's economy** and ensure the well-being of all Filipinos.
+* How can S&T help us during times of disasters [and in general]?
+  * Analyzing and understanding natural processes and their possible impacts
+  * Observing and Monitoring, Forecasting and Projecting
+  * Developing early warning devices (Care for Power Lines, News)
+  * Communicating developments
+  * Mapping affected areas, transportation routes, communication and energy lines (eg. Rescues, Relief Ops)
+  * Getting help where it is needed
+  * Studying and addressing impacts (eg. Health)
+  * Providing innovative solutions
+  * Understanding how and why people help
+
+  Exposure Hazard Vulnerability Risk (Venn Diagram)
+  We are sliding into season of extreme weather effects
+  Point: Technology can do so much to alleviate our experience of disasters
