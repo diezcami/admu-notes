@@ -3,6 +3,9 @@
 * Read the book lol
 * Core differences between Technology and Science
 * Waves of Science
+  * First Wave: Agriculture
+  * Second Wave: Industrial Revolution
+  * Third Wave: Information Age/Knowledge Wars
 
 * Science and Technology have become the most important factor for **national economic growth and the source of competitive advantage**
 * S&T identifies as the **principal means to fuel the nation's economy** and ensure the well-being of all Filipinos.
