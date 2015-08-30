@@ -10,3 +10,13 @@
   * Everything is protected by licenses and contracts
   * What makes software sellable and unique: Necessity, Productivity, Security, Reliability
     * How do you know software's necessary?
+
+* **Developing Methodologies**
+  * **Agile**
+    * Scrum: 5 minute stand-up meeting
+    * Product Owner and Scrum Master
+    * Have post-its (User Stories) regarding project to be built
+    * Sprint: two week period to implement a set of projects
+    * Requirements and specifications are flexible
+  * **Waterfall Model**
+    * For every step you do, you have a document saying you move onto the next

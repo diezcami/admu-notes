@@ -27,3 +27,14 @@
     * **Structure**: Growing out of infrastructure is sturcture: Social relations, forms of kinship and descent, patterns of distribution and consumption
     * **Superstructure**: Religion, ideology and play-aspects of culture furthest away from the meat and bones that enable cultures to survive
   * **Key Belief (White, Steward, Marx)**: In the final analysis, infrastructure determines structure and superstructure
+
+## Processual Approaches to Culture
+* **Agency**
+  * Interplay between culture and individual people
+  * Our capacity to act within a particular context [culture is not a fixedd set of practices functioning as permanent social glue]
+  * Agency: Actionswe take both alone and in groups, in forming and transforming cultural identities
+* **Practice Theory**
+  * Individuals in society have diverse motives and intentions as well as different degrees of power and influence
+  * Focuses on how such varied individuals - through their actions and practices - induce and transform the world they live in
+  * Reciprocal relation between culture and individual
+* **

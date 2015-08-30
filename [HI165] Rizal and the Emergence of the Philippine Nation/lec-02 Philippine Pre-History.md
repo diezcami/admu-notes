@@ -96,8 +96,29 @@
     * Bahay Kubo (spn. cubo)
     * One room, made from organic materials, isolated
     * Raised 3-4 meters above the ground to prevent wild animals from getting inside, keeping livestock (convenience of security and feeding)
-
-
+    * Temporary, built in the middle of nowhere
+    * Communal use
+* **Military**
+  * Weapons: Long for 'far' combat
+  * **Headhunting (p.19)**: Using a bararao/palacul
+    * To make sure person actually died [mostly for leaders/ important individuals]
+    * Lessens the bloodshed (War ends after leader is decapitated)
+  * **Inter Barangay Raids**
+    * Not only for head taking, but also for slavery [take as slaves, sold to slavery, sold to community]
+      * Decapitate datu to take control of the barangay and get people
+      * Transform regular people into dependent/alipin is more valuable than killing that person [most important commodity]
+      * If chiefly class are captured, they were offered for ransom in gold, or as slaves for life
+    * Tinguianes fight after their harvest are done (no regular military, just the farmers/workers)
+    * **Causes of raids**
+      * Unwarranted killing of natives in another town [fight back before more people die and numbers reduce]
+      * Stealing wives
+      * Treachery when one goes in a friendly manner to another village trade
+    * **How to scare enemies before fighting**
+      * More alliances/ merge with another barangay [Increase numbers]
+      * More weapons
+      * Pintados ("Painted Ones"): Body art/tattoos to scare enemies
+        * Keeps records of battles, death, courage
+        * Horizontal lines: Mountains, Curvy lines: Water
 
 * **Narratives**: People who were with the colonisers and wrote everything down. Without them, we wouldn't have anything at all and rely on only archaelogical remains
   * Miguel de Loarca
