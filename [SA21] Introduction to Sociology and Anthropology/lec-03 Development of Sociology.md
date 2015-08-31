@@ -53,7 +53,7 @@
   * Sometimes an event can be functional in one respect and dysfunctional in another
     * eg. Industry: Society's way of life vs Environment, Marcos
 * **Conflict Perspective**
-  * View of society that focuses on processes of tension, competetion and change
+  * View of society that focuses on processes of tension, competiwtion and change
   * **Karl Marx** saw the struggle between social classes as the main force of change
   * Modern conflict is seen among many groups and interests as a fact of life in any society (eg. Generation Gaps)
     * Cannot be imposed by "Order and Stability" or merely conforming
@@ -64,7 +64,7 @@
     * Social processes cannot be fully understood without referring to this conflict of interest, a conflict whose outcome always favors the stronger party.
       * eg. People Power, Cory Aquino had power and helped out the masses - leveled their odds in going against Marcos
   * **Advantages**: Highlights aspect of society that the functionalist perspective tends to ignore
-  * **Disadvantages**: Focuses on issues of competition and change, while failin to take into account more orderly, stable and less controversial dimensions of social reality.
+  * **Disadvantages**: Focuses on issues of competition and change, while failing to take into account more orderly, stable and less controversial dimensions of social reality.
 * **Interactionist Perspective**
   * Does not necessarily contest the previous 2
   * A view of society that focuses on the way in which people act toward, respond to and influence one another.
