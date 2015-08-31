@@ -1,0 +1,16 @@
+* NAND Gate
+.include "8clocks.jsim"
+.include "nominal.jsim"
+
+* Name, drain, gate, source, substrate, N/PENH W=1u L=1u
+MP1 vdd clk1 out vdd PENH W=1u L=1u
+MP2 vdd clk2 out vdd PENH W=1u L=1u
+
+* Substrate for an NFET is always ground
+MN1 out clk1 thing 0 NENH W=1u L=1u
+MN2 thing clk2 0 0 NENH W=1u L=1u
+
+.tran 20ns
+.plot clk1
+.plot clk2
+.plot out

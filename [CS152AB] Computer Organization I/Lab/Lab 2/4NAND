@@ -1,0 +1,22 @@
+* 4 Input NAND Gate
+.include "8clocks.jsim"
+.include "nominal.jsim"
+
+* Name, drain, gate, source, substrate, N/PENH W=1u L=1u
+MP1 vdd clk1 a vdd PENH W=1u L=1u
+MP2 vdd clk2 a vdd PENH W=1u L=1u
+MP3 vdd clk3 a vdd PENH W=1u L=1u
+MP4 vdd clk4 a vdd PENH W=1u L=1u
+
+MN1 a clk1 b 0 NENH W=1u L=1u
+MN2 b clk2 c 0 NENH W=1u L=1u
+MN3 c clk3 d 0 NENH W=1u L=1u
+MN4 d clk4 0 0 NENH W=1u L=1u
+
+.tran 80ns
+.plot clk1
+.plot clk2
+.plot clk3
+.plot clk4
+.plot a
+

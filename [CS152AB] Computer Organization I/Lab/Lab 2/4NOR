@@ -1,0 +1,24 @@
+* 4 Input NOR Gate
+.include "8clocks.jsim"
+.include "nominal.jsim"
+
+* Name, drain, gate, source, substrate, N/PENH W=1u L=1u
+
+MP1 vdd clk1 a vdd PENH W=1u L=1u
+MP2 a clk2 b vdd PENH W=1u L=1u
+MP3 b clk3 c vdd PENH W=1u L=1u
+MP4 c clk4 d vdd PENH W=1u L=1u
+
+* Substrate for an NFET is always ground
+MN1 d clk1 0 0 NENH W=1u L=1u
+MN2 d clk2 0 0 NENH W=1u L=1u
+MN3 d clk3 0 0 NENH W=1u L=1u
+MN4 d clk4 0 0 NENH W=1u L=1u
+
+.tran 80ns
+.plot clk1
+.plot clk2
+.plot clk3
+.plot clk4
+.plot d
+

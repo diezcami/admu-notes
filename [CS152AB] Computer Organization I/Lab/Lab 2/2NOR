@@ -1,0 +1,14 @@
+* NOR Gate
+.include "8clocks.jsim"
+.include "nominal.jsim"
+
+MP1 vdd clk1 alice vdd PENH W=1u L=1u
+MP2 alice clk2 doge vdd PENH W=1u L=1u
+
+MN1 doge clk1 0 0 NENH W=1u L=1u
+MN2 doge clk2 0 0 NENH W=1u L=1u
+
+.tran 20ns
+.plot clk1
+.plot clk2
+.plot out
