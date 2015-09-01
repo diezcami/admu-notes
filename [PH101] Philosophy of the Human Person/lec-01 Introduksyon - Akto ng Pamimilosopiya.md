@@ -54,3 +54,18 @@
 * eg. "Pasma", "Kulit"
 * Words can bring you closer to the depth of an experience, but there are also words that "hide" an experience (pretentious)
   * eg. Using difficult words to give students a more difficult time understanding concepts, and not actually using them to enrich an experience
+
+## Ferriols Reading 
+* There are times hwen you encounter an experience, but have trouble defining or explaining the richness of it 
+* We use metaphors to shed light [on the kalaliman ng karanasan] and [para ipakilala sa kapwa]
+* **Pag-uunawa**: Maihahambing sa pagtingin
+  * Descriptions for pag-uunawa [ay laging may kinalaman sa pagtingin] eg. Malinaw, Maliwanag, Malabo
+  * **1. Ikaw lamang** ang titingin para sa sarili mo: Pasya [nagdedesisyon]
+  * **2. Tulong mula sa iba**: bukal-ng-mapagkakatiwalaang-kaalaman [source of reliable information?]
+  * Kilatis: Deducing value
+  * **3. Ako, Ikaw & Tayo, Sila : Muna**: Kinikilala na ang bawa't tao ay gumagalaw sa mga partikular na ritmo [appropriate/proper time]. May mga panahon na pusibleng nakakayahan na sa kanyang maunawaan ang mga bagay (eg. Dahil sa edad)
+    * eg. Not teaching a kid calculus in first grade
+  * **4. Sabay Sabay** na tumitingin o umuunawa sa mga bagay. May panahon na pare-parehas ang nakikita o nauunawan natin. 
+* **Abstraksyo**
+  * Abs: Paghihiwalay, Tractio: Paghihila: Ang abstraksyo ay kilos ng kuha at iwan
+  * Struktura ng ating pag-iisip; di maiiwasan
