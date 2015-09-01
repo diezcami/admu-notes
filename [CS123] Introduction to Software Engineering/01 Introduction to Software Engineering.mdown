@@ -19,4 +19,4 @@
     * Sprint: two week period to implement a set of projects
     * Requirements and specifications are flexible
   * **Waterfall Model**
-    * For every step you do, you have a document saying you move onto the next
+    * For every step you do, you have a document saying you move onto the 
