@@ -23,7 +23,6 @@
         * Unquestionable: Buying ,stealing, borrowing a paper, etc..
         * Grey Area: Close paraphrasing, building up on someone's ideas
         * Moral: Just Cite
-
     * **Trademarks**: Words, phrase, symbol or design that identifies and distinguishes a product from another
     * **Patents**: Rights over the manufacture, use and marketing of inventions
       * Product or Process?
@@ -34,6 +33,37 @@
       * Details are disclosed: Efficiency
       * Patents can also cover ideas, designs and plans that have never been produced
 * **International Agreements**
-  * 1994 TRIPS: Trade-related aspects of IPR
+  * 1994 TRIPs: Trade-related aspects of IPR
   * 2001 Doha Declaration: Amendments on interpretations of TRIPs provisions
 * Issue: Napster
+
+## Discontent with IPR Rules
+* Protection for products, processes or both?
+* Hindering tech transfer to IP-poor least developing countries
+  * Patent Trolling: Company attempts to enforce patents against accused infringers (Apple vs Samsung)
+  * Lack of competencies in LDC's for effective transfer
+  * Reluctance to create competitors/competition [Most tech companies are monopolised]
+* Trade secrets provision in TRIPs?
+* Patenting traditional, indigenous knowledge [eg. Turmeric, Conus Magus]
+* "Life" Patenting, Biopiracy [eg. Basmati Rice]
+* IPR's as economic and trade instruments
+* **Patent Protection is not absolute**. Sometimes individual rights have to be sacrificed for greater national interest.
+  * eg. IPR and Public Health: Anthrax Scare, Anti-HIV Drugs
+
+## Why Protect IP?
+* Attracts investments that will create new jobs and opportunities
+* Provides incentives for technological innovation
+* Quick commercialization
+* Prevents brain drain/ piracy
+* Profit
+
+## IPR and Innovation
+* Theoretically, IPR protection encourages research and development. However, people are more accustomed to patent trolling.
+* **Patent Trolling**: Perverting the law for profits while preventing innovation
+
+## Alternative IPR Protection
+* **Fair Use** as limited use of copyrighted material without permission (includes teaching)
+* **Copyleft**: practice of offering people the right to freely distribute copies and modified versions of a work with the stipulation that the same rights be preserved in the derived work
+* **Open Source**: promotes universal access via free license
+* **Creative Commons**
+  * Attribution, Noncommercial, Noderivative, Share Alike

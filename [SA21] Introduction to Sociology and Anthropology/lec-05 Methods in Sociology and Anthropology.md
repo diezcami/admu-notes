@@ -1,40 +1,51 @@
-# Anthropology
+# Methods in Sociology and Anthropology
+* Sociology: Quantitative, Anthropology: Qualitative
 
-## Anthropological Theories
-* **Evolutionism**
-  * **Edward Burnet Tylor**: Classical deifnition of culture and proposed it as a topic that can be studied scientifically
-  * **Lewis Morgan**: Assumed human society was linear and evolved through lower, middle and upper savagery and barbarism, and civilization [unilineal evolutionism]
-* **The Boasians**
-  * **Franz Boas**: Each culture, despite similar totems, have different meanings associated with them due to differing sociological and geographical contexts [historical particularism]
-* **Functionalist**
-  * **Bronislaw Malinowski**:
-
-* Anthropology helps us study societies as they exist today rather than across time
-* Structural Functionalism: Customs function to preserve social structure.
-
-* **Configurationalism**
-  * Ruth Benedict and Margaret Merd
-  * Related to functionalism in the sense that culture is seen as integrated
-  * Culture traits and whole cultures are uniquely patterned or integrated 
-    * Borrowed traits (diffision) are indigenized and modified to fit the existing culture
-* **Neoevolutionism**
-  * Leslie White, Julian Steward
-  * Cultures might not evolve in the same direction (multilinear evolutionism)
-* **Cultural Materialism**
-  * Marvin Harris
-  * All societies consist of:
-    * **Infrastructure**: Base consisting of technology, economics and demography [systems of production and reproduction without which societies cannot survive]
-    * **Structure**: Growing out of infrastructure is structure: Social relations, forms of kinship and descent, patterns of distribution and consumption
-    * **Superstructure**: Religion, ideology and play-aspects of culture furthest away from the meat and bones that enable cultures to survive
-  * **Key Belief (White, Steward, Marx)**: In the final analysis, infrastructure determines structure and superstructure
-
-## Processual Approaches to Culture
-* **Agency**
-  * Interplay between culture and individual people
-  * Our capacity to act within a particular context [culture is not a fixed set of practices functioning as permanent social glue]
-  * Agency: Actions we take both alone and in groups, in forming and transforming cultural identities
-* **Practice Theory**
-  * Individuals in society have diverse motives and intentions as well as different degrees of power and influence
-  * Focuses on how such varied individuals - through their actions and practices - induce and transform the world they live in
-  * Reciprocal relation between culture and individual
-* **
+## How do social scientists see the world?
+* Social research offers a powerful process to help you
+  * Make decisions (eg. What type of person should you marry?)
+  * Understand events in the larger world around you (eg. Why do students do shootings?)
+  * Decide professional issues (eg. Which product is likely to sell the most?)
+* **Critical Thinking**: Intense awareness that leads to discernment by not accepting just anything that comes along
+  * Gambler's Fallacy: Something will happen after a long time of it not happening
+  * Attribution Error: Blaming negative outcomes to other sources, attributing positive ones to ourselves
+  * eg. INC Rally: People not knowing what they're protesting for
+* **Social Research**:
+  * Uses critical thinking as part of our arguments (logically connected statements with a clear conclusion)
+  * Based on systematic empirical evidence
+* **Evidence**
+  * Quantitative and Qualitative
+  * Create a situation, have a control group, measure and analyze reactions
+* **Types of Social Research**
+  * Four major purposes: Exploring, Describing, Explaining, Evaluating
+* **The Research Process in 8 Steps**
+  * Select a topic
+  * Narrow the topic, or focus it on a specific research question. Define your hypothesis.
+  * 
+  * Develop a detailed plan on how to carry out the study. Decide on research techniques to use
+  * Mixing the mind and the heart by studying human beings w/the same characteristics as us
+  * Collection of data
+  * Data analysis (Look for trends, patterns, etc)
+  * Interpretation of analyzed data
+  * Prepare a report
+  * **Quantitative Research**
+    * Fine tune the research question or problem
+    * Decide your 'universe'
+    * Research path to follow (linear path: fixed sequence of steps in one direction)
+    * Examining variables (independent, dependent, intervening)
+    * Hypothesis
+    * Looking for patterns
+    * Explain what we've found
+      * Causal explanation has three elements:
+        * Time order: Cause must come earlier in time than the effect
+        * Association: Cause and effect are associated or they go together and vary with one another
+        * Alternative causes ruled out: There is no better or stronger cause than the one you identified.
+      * **Qualitative Research**
+        * 1. Fine tunt topic
+        * 2. Identify the specific area where yo  
+        * 3. Researcy Path (psiral path: going back to the need as much as you need to)
+        * 4. Examining cases (Case studies)
+          * Direct observation
+          * Participant observation
+          *Key informants: Conduct semi-structured interviews to record insiders' understanding of the events under the study
+        * 5. Patterns (compare data)

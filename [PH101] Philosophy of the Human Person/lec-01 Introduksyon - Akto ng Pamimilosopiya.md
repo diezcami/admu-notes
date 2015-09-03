@@ -69,3 +69,9 @@
 * **Abstraksyo**
   * Abs: Paghihiwalay, Tractio: Paghihila: Ang abstraksyo ay kilos ng kuha at iwan
   * Struktura ng ating pag-iisip; di maiiwasan
+  * Palaging ginagawa sa panahong nag-uunawa o nagtitingin
+  * We don't claim to know everything
+  * May panahon na kailangang bitawan ang talinghaga
+    * Iba pa din ang pagtingin sa pag-uunawa
+    * Maaaring hindi naman lahat ng pag-uunawa ay pagtingin. May mga bagay na lumalagpas sa pwede mong makita
+    * Talinghaga: Ginagawa para hulihin ang karanasan, pero minsan'y di sapat
