@@ -1,0 +1,12 @@
+.include "myInclude.jsim"
+
+
+* Clock 1 32 times
+Xlol clk1 clk2 clk3 co s FA
+
+.tran 40ns
+.plot clk1
+.plot clk2
+.plot clk3
+.plot co
+.plot s

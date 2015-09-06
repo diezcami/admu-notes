@@ -1,0 +1,17 @@
+.include "stdcell.jsim"
+.include "8clocks.jsim"
+.include "nominal.jsim"
+
+.subckt HA a b co s
+Xxor a b s xor2
+Xand a b co and2
+.ends
+
+.subckt FA a b ci co s
+Xa a b z xor2
+Xb ci z s xor2
+
+Xc z ci y nand2
+Xd a b x nand2
+Xe x y co nand2
+.ends
