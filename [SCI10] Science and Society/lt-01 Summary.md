@@ -163,6 +163,23 @@
       * Reluctance to create competitors/competition [Most tech companies are monopolised]
     * The provisions of TRIPs allow the patenting of indigenous knowledge and practices [eg. Turmeric, Yoga, Conus Magus]
     * TRIPs is too lax in preventing "life patenting" or biopiracy [eg. Basmati Rice, Ayabuasca Vine, Mexican Yellow Beans]
+* **Theoretical Perspectives of IPR**
+  * Economic Development: The strong do as they will, the weak do as they must
+  * Public Health: eg. Anthrax Spores, Anti-HIV in Africa
+  * R&D, Innovation: Ideally helpful, but subject to a lot of abuse
+  * Human Rights: Baikal Environmental Wave
+* **Why Protect IPR?**
+  * Attracts investments that will create new jobs and opportunities
+  * Provides incentives for technological innovation
+  * Quick commercialization
+  * Prevents brain drain/ piracy
+  * Profit
+* **Alternative IPR Protection**
+  * **Fair Use** as limited use of copyrighted material without permission (includes teaching)
+  * **Copyleft**: practice of offering people the right to freely distribute copies and modified versions of a work with the stipulation that the same rights be preserved in the derived work
+  * **Open Source**: promotes universal access via free license
+  * **Creative Commons**
+    * Attribution, Noncommercial, Noderivative, Share Alike
 
 ## Summary
 * Science is dynamic

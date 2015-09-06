@@ -44,8 +44,8 @@
   * Lack of competencies in LDC's for effective transfer
   * Reluctance to create competitors/competition [Most tech companies are monopolised]
 * Trade secrets provision in TRIPs?
-* Patenting traditional, indigenous knowledge [eg. Turmeric, Conus Magus]
-* "Life" Patenting, Biopiracy [eg. Basmati Rice]
+* Patenting traditional, indigenous knowledge [eg. Turmeric, Yoga, Conus Magus]
+* "Life" Patenting, Biopiracy [eg. Basmati Rice, Ayabuasca Vine]
 * IPR's as economic and trade instruments
 * **Patent Protection is not absolute**. Sometimes individual rights have to be sacrificed for greater national interest.
   * eg. IPR and Public Health: Anthrax Scare, Anti-HIV Drugs
