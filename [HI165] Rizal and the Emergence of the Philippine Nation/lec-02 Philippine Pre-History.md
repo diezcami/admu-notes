@@ -147,7 +147,10 @@
     * This belief system attests to the fact that having multiple children is not desirable, especially those inhabiting near the sea. Abortion takes place from people not being able to afford many children.
     * Women on their first pregnancy are averse to climbing any house if htey are not given a little buyo or salt
     * (p.29) As soon as the child is born, several taboos were observed. It was believed that if rice were to fall from the mortar and eaten by chickens, the child would die.
-    * (p.29 3rd) Child naming 
+    * (p.29 3rd) Child naming was done as soon as the child was a few days old. The child was named by its mother after certain circumstances attended to the birth [how the mom felt during the birth], or [the first thing the baby sees after birth]
+      * Pat-ama, pat-ina
+    * Bringing up the child during pre-Spanish days: The mother taught hte daughter the female rules of the house while the father trained the son to become a warrior. When the boy reached 8, they were taught to use bow/arrows/lances/spears. Sometimes, the chief would kill [read the thing]. In order to teach boys how to kill, they get corpses of enemies and let kids hack them. 
+    * Lobloba(??): takes his little son, sneak up behind a co-citizen, and helps the boy jab a spear into the buttocks
     * Spanish wanted the Filipinos to appear barbaric so they could paint their image of Christianity
 
 
