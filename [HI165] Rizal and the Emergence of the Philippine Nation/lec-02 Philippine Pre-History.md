@@ -119,6 +119,38 @@
       * Pintados ("Painted Ones"): Body art/tattoos to scare enemies
         * Keeps records of battles, death, courage
         * Horizontal lines: Mountains, Curvy lines: Water
+* **Marriage**
+  * Loarca corroborated this account when he wrote about the Bisayan
+    * It is considered a disgrace among them to have many children; for they say that when the property is to be divided among many children [it's easier to manage things economically with one kid
+  * Women raised pigs because they believed it'd make them pregnant
+  * **Three reasons for Circumcision**
+    * Muslim tradition
+    * Trade: Secret Handshake, easiest way was to accept their way of life
+    * Sexual: Women gravitated to men who were circumcised because it was "something different"
+    * **Process**: 
+      * Put 8=D on a chopping board, prefer a male doctor because they're stronger, usually done when men are of age
+      * Goal's to make 8=D numb by striking it several times
+      * Use cutlass to get rid of the skin, spit antiseptic on genitalia
+      * Wash in the river
+    * **Antonio Pigafetta**
+      * Males wore a bahag, penises pierced one side to another near the head, resembling a spur(?)
+      * Males insert genitalia with "devices" in an angle which isn't let go until they ejaculate [ensures "communication" happens]
+      * Used mainly for procreation
+  * (p.27) As soon as the young wife conceived, she and her husband immediately observed **certain practices (pamahiin)**
+    * Raised pigs and sacrificed at birth to the anito
+    * Anito: Environmental spirits [replaced by saints] responsible in making the women pregnant, whereas men only acted as vessels
+      * **Tiktik**: Man should stay in the house otherwise the creature'd attack. It attaches itself to the house of a person and drops a very long tongue attaching to the woman's womb and sucks the baby out. People place stakes on their roofs.
+      * Don't eat peanuts/beans because it'll make your child dull, sometimes fish as well.
+      * Husband does not cut his hair until his wife delivers, as his child would not be born otherwise [not that prevalent]
+    * (p.28) They were likewise prohibited from eating bananas that are joined one with another or any other food athat are two in one because they believed they would give birth to 2 creatures from the same womb to which they consider a great insult.
+    * They were also warned from eating 2 upwards from a plate
+    * This belief system attests to the fact that having multiple children is not desirable, especially those inhabiting near the sea. Abortion takes place from people not being able to afford many children.
+    * Women on their first pregnancy are averse to climbing any house if htey are not given a little buyo or salt
+    * (p.29) As soon as the child is born, several taboos were observed. It was believed that if rice were to fall from the mortar and eaten by chickens, the child would die.
+    * (p.29 3rd) Child naming 
+    * Spanish wanted the Filipinos to appear barbaric so they could paint their image of Christianity
+
+
 
 * **Narratives**: People who were with the colonisers and wrote everything down. Without them, we wouldn't have anything at all and rely on only archaelogical remains
   * Miguel de Loarca
