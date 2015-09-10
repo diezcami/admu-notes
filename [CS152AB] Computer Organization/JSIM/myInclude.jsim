@@ -15,3 +15,8 @@ Xc z ci y nand2
 Xd a b x nand2
 Xe x y co nand2
 .ends
+
+.subckt RA a[0:31] b[0:31] ci co s
+Xadd a0 b0 1 c0 s0 FA
+Xx a[1:31] b[1:31] c[0:30] c[1:31] s[1:31] FA
+.ends
