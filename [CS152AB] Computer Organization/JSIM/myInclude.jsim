@@ -2,6 +2,10 @@
 .include "8clocks.jsim"
 .include "nominal.jsim"
 
+.subckt knex ab
+.connect a b
+.ends
+
 .subckt HA a b co s
 Xxor a b s xor2
 Xand a b co and2
@@ -16,7 +20,11 @@ Xd a b x nand2
 Xe x y co nand2
 .ends
 
-.subckt RA a[0:31] b[0:31] ci co s
-Xadd a0 b0 1 c0 s0 FA
-Xx a[1:31] b[1:31] c[0:30] c[1:31] s[1:31] FA
+.subckt ADDER a[31:0] b[31:0] c0 f[31:0]
+Xconn a[31:0] b[31:0] c0[30:0] c0 c0[31:0] f[31:0] FA
+.ends
+
+.subckt ADDSUB a[31:0] b[31:0] op f[31:0]
+Xactualb op#32 b[31:0] notb[31:0] xor2
+Xadd a[31:0] notb[31:0] op f[31:0] ADDER
 .ends

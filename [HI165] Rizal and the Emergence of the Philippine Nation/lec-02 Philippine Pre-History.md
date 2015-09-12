@@ -152,6 +152,43 @@
     * Bringing up the child during pre-Spanish days: The mother taught hte daughter the female rules of the house while the father trained the son to become a warrior. When the boy reached 8, they were taught to use bow/arrows/lances/spears. Sometimes, the chief would kill [read the thing]. In order to teach boys how to kill, they get corpses of enemies and let kids hack them. 
     * Lobloba(??): takes his little son, sneak up behind a co-citizen, and helps the boy jab a spear into the buttocks
     * Spanish wanted the Filipinos to appear barbaric so they could paint their image of Christianity
+* **Religion and Belief System**
+  * **Belief System**
+    * The pre conquest Filipinos had a body of beliefs which has survived the onslaught of time and functions in many rural and upland areas today as a point of reference in various action processes
+      * eg. 'Tabi tabi po' bec of dwarves
+      * **Animism**: 
+        * Belief that there are spirits in nature
+        * Nature is active
+        * Focused on the worship on Environmental spirits
+        * **Anito**: Environmental spirits (good)
+        * Monotheistic
+  * **Religious Structures**
+    * That is why there were no temples or stone buildings in the PH similar to those obtaining elsewhere. Megalithic structures were constructed only im permanent, large communities and by strong political leaders either for residence, religious worship or bureaucracy. Thus to speak of temples and kings in the PH, as I shall show later, is to exaggerate the sociological contexts (p.4-5)
+      * **Religion/Mythology Hierarchy**
+        * Bathala (God): Monotheism
+        * Anito/Environmental Spirits
+        * Creatures: Physycal
+      * There exist priests (**Babaylan or Catalonan**) who serve as mediums for talking to the deities
+        * Mostly reserved for women
+    * Male: Datu, political, social, economic
+    * Female: Catalonan, Babaylan, religion, finding cures, getting rid of environmental spirits
+      * **Anting-anting/agimat/talisman**: Object that gives you extraordinary powers
+        * Important bec of warrior culture and ensuring soldiers' safe travels
+        * Replaced by scapula and rosary when Spanish arrived
+        * Respectful, but afraid
+      * **Gayuman**: Love potion/ concoction that forces you to do something
+        * Urine salts into pills before intercourse; there's something in urine that makes people attractive/hormones
+      * Getting sick = offending an anito, therefore need to find a medium to appease them
+      * Deities are usually male and don't necessarily wanna talk to other males
+      * Male Catalonan/Babaylan need to look like women
+    * Religion has a **large correlation with medicine**: Women are good with medicine so they're seen as the keepers of religion - because they're more observant
+    * If an animal is wounded, men would kill it, but women would be incapaciated and only observe how they treat themselves
+* **Religion**
+  * (p.6) Should any member of the family become seirously ill or die, the people believed that the spirits of the **fields** had been offended and therefore residents should move out. The dwellings were either left behind or burnt before departure.
+    * Why we don't have temples
+    * Babaylan uses a pendulum: What it swings to is what you've offended, then goes to the room and asks what offer it wants
+
+
 
 
 
