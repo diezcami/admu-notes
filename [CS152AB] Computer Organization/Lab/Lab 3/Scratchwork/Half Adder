@@ -1,6 +1,0 @@
-* Subscircuit: Name, Node_A, Node_B, 
-
-.subckt HA a b co s
-Xxor a b s xor2
-Xand a b co and2
-.ends
