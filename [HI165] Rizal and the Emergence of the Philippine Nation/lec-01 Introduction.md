@@ -18,7 +18,6 @@
     * eg. The Last Supper entails that the Renaissance is a rebirth of the classical ideas (painting style) coming from Romans, and Christianity was relevant.
     * eg. Rizal wearing a coat in his monuments because of European influence
 * **Has a Value**: Kasaysayan - root word is Saysay, implies significance of value
-
 * **Three Elements of History**
   * Time
   * Location/Space
@@ -26,9 +25,6 @@
 * *Can History exist without people?* 
   * Study of history isn't about the actual event, but about the value or meaning of certain events to the lives of people
   * History is not the search of the truth, evidence or facts - it's the search of meaning or value of what we do
-
-  # Philippine Geology, People and History
-
 
 ## Geology (Aug. 17, 2015)
 * **Map of the Philippines**
