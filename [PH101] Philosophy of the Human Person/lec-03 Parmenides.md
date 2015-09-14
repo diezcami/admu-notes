@@ -1,4 +1,5 @@
-## Parmenides
+# Parmenides
+
 * **Parmenides**: Pre-Socrates Philosophy
   * May nararanasang espesyal na hindi masabi-sabi at pinapakita sa pamamagitan ng talinhaga
   * Methodos: 
