@@ -5,6 +5,8 @@
   * PH belief there was no heaven or hell
   * They just know they're going to a place after they die, but not where
 * Used to scare people and avoid dwindling of population, "pananakot"
+* Makes people stay in groups so creatures wouldn't attack them
+* **Tikbala**: Horses arrived after Spanish period
 * **Tiktik**
   * Creature with a long tongue that eats the fetus of the pregnant woman
   * Asawa: Father protecting mother, pregnant mother should always have a companion (not necessaril father)
@@ -32,3 +34,15 @@
     * Don't talk to strange women [boogeyman], someone who'd force you to stay indoors because it's not safe at night
   * If you don't have a bridge in your nose, you're an aswang
   * **Main Goal**: To control the movement of the population
+* **Kapre***
+  * Spanish/ Mexican
+  * Etymology in Mexican: Kafre, or murdered nigro
+  * Smoking tobacco and wearing a loin cloth, as big as the CTC, lives in a balete tree
+  * Very harmless, only wants to confuse travelers
+  * Big deal, because Filipinos used to travel a lot
+  * **Main Goal**: 
+    * To confuse unsuspecting travelers
+    * Lets the Babaylan create **Anting-Anting** and attach them to your leg
+    * Lets men remember where they're going in their journeys
+
+## Death and Burial
