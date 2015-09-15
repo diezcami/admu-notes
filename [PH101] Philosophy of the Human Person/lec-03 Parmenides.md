@@ -26,6 +26,37 @@
   * **Second Part**
     * Alamat yung lugar: May kung anumang importante nangyari doon
     * Dumadaan doon ang mga lalaking may alam sa mga siyudad
+  * **Came late and missed stuff**
+    * Mga lalaking may alam sa mga sindad: sundalo
+    * Yung pagnanais ay mapanganib ding landas
+    * Seryoso ang landas
+    * Masakit malaman ang totoo
+    * Dahil gusto mo yung totoo => Mapanganib, nakakatakot, kailangan tunog ng plawta
+    * Relax, spa => [ ] => Sa gitna ng panganib, ang nangyayari ay [ ], maganda
+    * Sa gitna ng panganib, sa naghaharap ng katotohanan
+  * **Third Part**
+    * Mundo ng liwanag at mundo ng gabi (1.11-12)
+    * Daimon and babaeng kabayo: Daigdig sila ng araw: katotohanan, perfection, pag-uunawa
+    * Gabi: Walang kaalaman, maraming nagbabago, pagkabulok
+    * 2 posts and an arc, a door: May pinto na kailangan nilang daanan sa gitna ng tahanan ng liwanag at gabi (1.13)
+    * Dike: Justice, Kaayusan (1.14], hawak ang susi
+      * Mapagparusa: Ayaw silang payagang pumasok, dahil ipinamumukha ni Dike kay Parmenides na ang kaayusan niya ay para lamang sa dilim [You're a person, and part of being a person is staying in the tahanan ng gabi]
+      * Walang kwentang pag-iral, katotohanan ng limitasyon ng pagiging tao
+      * Lots of things in life have already been decided for you
+    * The daimon convinced Dike to let them in [1.15]
+  * **Fourth Part**
+    * Bakit walang kamatayan yung mga nawawaaryeyreh [???]: 
+    * Tadhana: fate/destiny
+      * Para sa Griyego: puwedeng iwasan ang tadhana [Moira]
+      * Not easy though (eg. Pagpapari + Vow thing, hinihinging magpakatao)
+    * Dike didn't want to let him in at first, but he wanted to let him in afterall [1.28]
+    * Maliwanag na tawag ng pagpapakatao sayo: dating nasa tahanan ng gabi lang, pero ang tunay na kalikasan mo ay may tahanan ng liwanag din (Tao lang, pero salamat na tao rin: Otherwise you wouldn't be able to grasp the things that make you happy)
+      * Lots of things in life have been picked for you, but there are also things in life you could pick for yourself
+    * Bahagi ng dike natin hindi lang manatili sa dilim, kung di ang [capabilities] natin [liwanag]
+
+
+
+
 
 ```
   1.1 The mares which carry me as far as my spirit ever aspired
@@ -43,7 +74,7 @@
   1.11 There are the gates of the roads of Night and Day,
   1.12 and a lintel and a stone threshold contain them.
   1.13 High in the sky they are filled by huge doors
-  1.14 of which avenging Justice holds the keys that fit them.
+  1.14 of which avenging Justice [Dike] holds the keys that fit them.
   1.15 The maidens beguiled her with soft words
 
   1.16 and skillfully persuaded her to push back the bar for them
@@ -55,12 +86,12 @@
   1.21 the maidens held the chariot and horses on the broad road.
   1.22 And the goddess received me kindly, took my right hand in hers,
   1.23 and addressed me with these words:
-  1.24 'Young man, accompanied by immortal charioteers,
+  1.24 'Young man [Katoto: kasama sa katotohanan], accompanied by immortal charioteers [sundalo],
   1.25 who reach my house by the horses which bring you, 
 
   1.26 welcome - since it was not an evil destiny that sent you forth to travel
   1.27 this road (for indeed it is far from the beaten path of humans),
-  1.28 but Right and justice. There is need for you to learn all things - 
+  1.28 but Right and justice [Diyos at Dike]. There is need for you to learn all things - 
   1.29 both the unshaken heart of persuasive Truth
   1.30 and the opinions of mortals, in which there is no true reliance.
   1.31 But nevertheless you will learn these too - that the things that appear
