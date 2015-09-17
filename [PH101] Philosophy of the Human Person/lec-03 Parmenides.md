@@ -11,52 +11,79 @@
       * Mahirap dahil ikaw lang ang nag-aabang (vs. seeing where you can always look or turn away)
       * Hidwaan (Tension): binubuo ng logos (eg. Bow&Arrow, Guitar, kailangan ng tamang timpla)
   * No one steps on the same river twice: The river flows before you get to step on it twice (Patuloy na paggalaw at pagbabago)
-* **Tula ni Parmenides**
-  * Gustong malaman ang kabuuan ng **meron**
-    * Talagang nangyayari
-    * Talagang totoo
-    * Talagang nangyayari at talagang totoo at kahit na isipin ko na hindi nangyayari ay nangyayari pa rin
-    * Hindi lamang bagay; patuloy na pangyayari (not just a noun, also a verb - mismong akto ng pag-iral)
-  * **Entheos**: "Sinasakyan ka ng Diyos", inspired, latin inspiritus
-  * **First Part**
-    * Back then, Greeks focused on politics. Countries didn't exist, just governments with their own ways of life and beliefs. Societies were patriarchal and women mostly did housework.
-    * Horses were female because 'may kagalingan panghawakan ng kababaihan ang katotohanan'
-    * Female daimon (mga anak ng diyos) riding the horse
-      * Eudaimonia: Kaligayahan
-  * **Second Part**
-    * Alamat yung lugar: May kung anumang importante nangyari doon
-    * Dumadaan doon ang mga lalaking may alam sa mga siyudad
-  * **Came late and missed stuff**
-    * Mga lalaking may alam sa mga sindad: sundalo
-    * Yung pagnanais ay mapanganib ding landas
-    * Seryoso ang landas
-    * Masakit malaman ang totoo
-    * Dahil gusto mo yung totoo => Mapanganib, nakakatakot, kailangan tunog ng plawta
-    * Relax, spa => [ ] => Sa gitna ng panganib, ang nangyayari ay [ ], maganda
-    * Sa gitna ng panganib, sa naghaharap ng katotohanan
-  * **Third Part**
-    * Mundo ng liwanag at mundo ng gabi (1.11-12)
-    * Daimon and babaeng kabayo: Daigdig sila ng araw: katotohanan, perfection, pag-uunawa
-    * Gabi: Walang kaalaman, maraming nagbabago, pagkabulok
-    * 2 posts and an arc, a door: May pinto na kailangan nilang daanan sa gitna ng tahanan ng liwanag at gabi (1.13)
-    * Dike: Justice, Kaayusan (1.14], hawak ang susi
-      * Mapagparusa: Ayaw silang payagang pumasok, dahil ipinamumukha ni Dike kay Parmenides na ang kaayusan niya ay para lamang sa dilim [You're a person, and part of being a person is staying in the tahanan ng gabi]
-      * Walang kwentang pag-iral, katotohanan ng limitasyon ng pagiging tao
-      * Lots of things in life have already been decided for you
-    * The daimon convinced Dike to let them in [1.15]
-  * **Fourth Part**
-    * Bakit walang kamatayan yung mga nawawaaryeyreh [???]: 
-    * Tadhana: fate/destiny
-      * Para sa Griyego: puwedeng iwasan ang tadhana [Moira]
-      * Not easy though (eg. Pagpapari + Vow thing, hinihinging magpakatao)
-    * Dike didn't want to let him in at first, but he wanted to let him in afterall [1.28]
-    * Maliwanag na tawag ng pagpapakatao sayo: dating nasa tahanan ng gabi lang, pero ang tunay na kalikasan mo ay may tahanan ng liwanag din (Tao lang, pero salamat na tao rin: Otherwise you wouldn't be able to grasp the things that make you happy)
-      * Lots of things in life have been picked for you, but there are also things in life you could pick for yourself
-    * Bahagi ng dike natin hindi lang manatili sa dilim, kung di ang [capabilities] natin [liwanag]
 
+## Tula ni Parmenides
+* Gustong malaman ang kabuuan ng **meron**
+  * Talagang nangyayari
+  * Talagang totoo
+  * Talagang nangyayari at talagang totoo at kahit na isipin ko na hindi nangyayari ay nangyayari pa rin
+  * Hindi lamang bagay; patuloy na pangyayari (not just a noun, also a verb - mismong akto ng pag-iral)
+* **Entheos**: "Sinasakyan ka ng Diyos", inspired, latin inspiritus
+* **First Part**
+  * Back then, Greeks focused on politics. Countries didn't exist, just governments with their own ways of life and beliefs. Societies were patriarchal and women mostly did housework.
+  * Horses were female because 'may kagalingan panghawakan ng kababaihan ang katotohanan'
+  * Female daimon (mga anak ng diyos) riding the horse
+    * Eudaimonia: Kaligayahan
+* **Second Part**
+  * Alamat yung lugar: May kung anumang importante nangyari doon
+  * Dumadaan doon ang mga lalaking may alam sa mga siyudad
+* **Came late and missed stuff**
+  * Mga lalaking may alam sa mga sindad: sundalo
+  * Yung pagnanais ay mapanganib ding landas
+  * Seryoso ang landas
+  * Masakit malaman ang totoo
+  * Dahil gusto mo yung totoo => Mapanganib, nakakatakot, kailangan tunog ng plawta
+  * Relax, spa => [ ] => Sa gitna ng panganib, ang nangyayari ay [ ], maganda
+  * Sa gitna ng panganib, sa naghaharap ng katotohanan
+* **Third Part**
+  * Mundo ng liwanag at mundo ng gabi (1.11-12)
+  * Daimon and babaeng kabayo: Daigdig sila ng araw: katotohanan, perfection, pag-uunawa
+  * Gabi: Walang kaalaman, maraming nagbabago, pagkabulok
+  * 2 posts and an arc, a door: May pinto na kailangan nilang daanan sa gitna ng tahanan ng liwanag at gabi (1.13)
+  * Dike: Justice, Kaayusan (1.14], hawak ang susi
+    * Mapagparusa: Ayaw silang payagang pumasok, dahil ipinamumukha ni Dike kay Parmenides na ang kaayusan niya ay para lamang sa dilim [You're a person, and part of being a person is staying in the tahanan ng gabi]
+    * Walang kwentang pag-iral, katotohanan ng limitasyon ng pagiging tao
+    * Lots of things in life have already been decided for you
+  * The daimon convinced Dike to let them in [1.15]
+* **Fourth Part**
+  * Bakit walang kamatayan yung mga nawawaaryeyreh [???]: 
+  * Tadhana: fate/destiny
+    * Para sa Griyego: puwedeng iwasan ang tadhana [Moira]
+    * Not easy though (eg. Pagpapari + Vow thing, hinihinging magpakatao)
+  * Dike didn't want to let him in at first, but he wanted to let him in afterall [1.28]
+  * Maliwanag na tawag ng pagpapakatao sayo: dating nasa tahanan ng gabi lang, pero ang tunay na kalikasan mo ay may tahanan ng liwanag din (Tao lang, pero salamat na tao rin: Otherwise you wouldn't be able to grasp the things that make you happy)
+    * Lots of things in life have been picked for you, but there are also things in life you could pick for yourself
+  * Bahagi ng dike natin hindi lang manatili sa dilim, kung di ang [capabilities] natin [liwanag]
+* **Summary ish**
+  * Bahagi ng thea kung saan sinasabing "Wag kang malungkot, hindi itong masamang tadhana (tawag ng pagpapakatao). Hindi lamang ito tadhana ng diyos, kung di ang dike"
+  * Katotohanan ng liwanag: mundo ng mga posibilidad, kayamanan
+  * Buhay, bahagi ng kaayusan ng tao ay katotohanan ng kanyang limitasyon at posibilidad
+    * Mapangparusa yung dike, pero bahagi din ng dike na magpapalaya ka
+    * Seryosong pagtanggap ng katotohanan ng limitasyon
+    * Tao lang, tao rin
 
+## Meron (at Wala)
+* 有不是没有的相反
+  * 有没有都是”有的“
+* Wala tayong masasabing wala dahil wala: Absence of meron
+* "Nagwawala": Kalikasang nararapat sa tao ay hindi ginaganap
+* Walang wala sa meron kaya lahat ay meron
 
+## Isip
+* "Iyong iyon din ang mag-isip at magmeron"
+  * **Autos**: Hindi matematikal na "iyong iyon" o =. Magkatulad, pero hindi parehas
+  * Yung nagmemeron ang pwedeng magpakilala sa isip
+* Hindi lahat ng naiisip ay nangyayari o nagmemeron
+  * eg. Nagiisip ng serena (wala), pero merong isda at tao
+  * eg. "I can destroy your virgnity using my imagination"
+  * eg. Trying on clothes "Maganda sa isip, pero meron ba?"
+* Hindi lahat ng iniisip ay nilalaman lamang ang meron
+  * Wala kang maiisip na hindi meron
+* Meron ay tumatalab sa isip, pero hindi lahat ng iniisip ay nangyayari sa meron
 
+## Lahing walang nangingilatis
+* Walang kwentang pag-iral sa lahat, at gusto itong ilarawan ni Parmenides
+* 
 
 ```
   1.1 The mares which carry me as far as my spirit ever aspired
