@@ -69,3 +69,12 @@
   * From communal to personal
   * Exposure to a larger community: Has been used to help combat things like culture shock
   * The Internet and Globalization: Economy and business transactions are easier on a global scale
+
+## Technological Debate
+* **Technology is harmful to interpersonal communication**
+  * Privacy between two people is exposed (eg. Sony Hack)
+  * It's not harmful, but it doesn't help
+* **Technology isn't harmful to interpersonal communication**
+  * Keyword is option
+  * Not harmful, but actually helpful
+  * Doesn't make us less social, just changes the way we socialise
