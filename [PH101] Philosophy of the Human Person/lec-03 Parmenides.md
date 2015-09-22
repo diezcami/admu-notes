@@ -63,7 +63,7 @@
     * Tao lang, tao rin
 
 ## Meron (at Wala)
-* 有不是没有的相反
+* 有有的相反
   * 有没有都是”有的“
 * Wala tayong masasabing wala dahil wala: Absence of meron
 * "Nagwawala": Kalikasang nararapat sa tao ay hindi ginaganap
@@ -83,7 +83,22 @@
 
 ## Lahing walang nangingilatis
 * Walang kwentang pag-iral sa lahat, at gusto itong ilarawan ni Parmenides
-* 
+* Dalawang ulo: can say anything; choose your adventure, ang meron ay wala
+* Mortal na kasalanan ni Parmenides: parang meron ang wala, dahil walang wala
+* "Ngunit harangin mo ang iyong isip sa ganitong landas na paghahanap.. ng aking linahad"
+  * Unang sandali ng pilosopiya: pagkilala ng karanasan (maunawaan ang daigdig mo dahil sa iyong mga pandama)
+  * Sa lahi, ang naghahari sa buhay nila ay matang walang nakikita, o pandinig na walang naririnig
+    * Walang matinong pag-uunawa, kaya hindi pusibleng makilala ang talagang totoo, sensitivity to surroundings
+  * **Logos**: yung tanging paraan upang maging masible na may makikita ang mata mo
+    * Minsan ay walang logos dahil isip mong may lisensya kang gawin ang lahat
+
+## Semata
+  * Hudyat ng meron: kung anuman ang hudyat, simbolismo o talinhaga. Ang mga sagisag ay ginagawa pangturo para pag-unawaan ang bagay na pinagtuturuan.
+  * "Hindi ko masasabi ang kabuuan ng meron, kaya ipapahiwatig ko sa paraan ng mga semata"
+  * Thea: Semata ng meron
+  * **Dalawang central na semata**:
+    * Panahon: Espesyal na ngayon (Walang nginig)
+    * Hugis Bola/Bilog: 
 
 ```
   1.1 The mares which carry me as far as my spirit ever aspired
@@ -123,23 +138,4 @@
   1.30 and the opinions of mortals, in which there is no true reliance.
   1.31 But nevertheless you will learn these too - that the things that appear
   1.32 must genuinely be, being always, indeed, all things. 
-```
-
-```
-  My philosophical and poetic inspiration, my imagination and my intelligence, which are able to bring, as fast mares, my mind until where my heart desires, led me to the way, which belongs to the deity, which leads the man who knows and who researches knowledge to know everything.
-  ￼￼￼￼￼￼
-  My inspiration took me, and the maidens, daughters of the Sun, illuminated my path of rational search for Truth.
-  They took me from the houses of the Night and of human ignorance into the light of the Day and of divine knowledge. They guided me to the giant gate that divides the paths of Night and Day;
-  Divine Law that governs the world holds the keys of the gate.
-  The maidens, daughters of the Sun, convinced that divine guardian of the gate to open it for us: so I could access the divine knowledge.
-  The Queen of the Gods greeted me kindly and so told me:
-  Oh young man, who – led by inspiration and by the light of knowledge –
-  reach our house, rejoice, because not a bad fate
-  has sent you to follow this path (it is in fact out of the path of men),
-  but divine will and justice.
-  It is necessary that you learn all things,
-  both the Truth known only by the Gods
-  and the opinions of mortals, always deceptive;
-  you also need how to interpret the appearances
-  that continuously pass before the eyes of mortals.
 ```
