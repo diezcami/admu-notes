@@ -97,8 +97,26 @@
   * "Hindi ko masasabi ang kabuuan ng meron, kaya ipapahiwatig ko sa paraan ng mga semata"
   * Thea: Semata ng meron
   * **Dalawang central na semata**:
-    * Panahon: Espesyal na ngayon (Walang nginig)
-    * Hugis Bola/Bilog: 
+    * **Panahon: Espesyal na ngayon** (Walang nginig/siksik)
+      * Hindi normal na pag-uunawa ng ngayon
+      * Walang puwedeng magbago sa meron
+      * Hindi puwedeng isilang ang meron: Implies na sa umpisa ay wala
+      * Hal. Pag-Ibig:
+        * Iniipon ang noon at hinaharap ngayon; ang mismong sinasabi ay lumalagpas sa panahon
+        * "Mahal kita" walang kondisyon sa panahon
+    * **Hugis Bola/Bilog**: 
+      * Tadhana ng diyos ang paraan ng meron -> kailangang may hugis dahil mahirap
+        * Mahirap dahil sanay tayong "if we give it a hangganan/boundary, it's an indication of limitation/imperfection"
+      * Sukat ang distansya mula sa gitna: Nagbibigay ng larawan sa kaganapan ng perfection
+      
+
+
+  * **Creatio ex Nihilo**: Nilikha sa wala, baybayan: pag-ibig
+    * Nilalagyan ng rehas/kadena ang meron upang siguraduhin na walang makapasok na wala sa meron
+  * Meron lamang ang tanging may pangalan
+  * **Pantheismo**: Pan: Lahat, Theismo: diyos / "Lahat Parehas"
+  * **Panentheismo**: Lahat ay nasa diyos
+
 
 ```
   1.1 The mares which carry me as far as my spirit ever aspired
