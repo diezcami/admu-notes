@@ -1,6 +1,7 @@
 # A Digital Age
 
 ## Ted Talk Review
+* Lawrence Lessig
 * **Infernal talking machines**
   * Effect on creating culture: Afraid it would go from read/write to read-only
 * **Plane flying over farm**: court decided planes were not trespassing because of common sense
@@ -73,7 +74,7 @@
 ## Technological Debate
 * **Technology is harmful to interpersonal communication**
   * Privacy between two people is exposed (eg. Sony Hack)
-  * It's not harmful, but it doesn't help
+  * We have a choice, but technology also dictated our culture
 * **Technology isn't harmful to interpersonal communication**
   * Keyword is option
   * Not harmful, but actually helpful

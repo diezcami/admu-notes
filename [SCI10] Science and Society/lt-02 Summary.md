@@ -40,7 +40,7 @@
     * **Receiver**: Handset, converts electrical signals back to sound waves
 * **Digital Age: 0s and 1s Rule**
   * **Analog**
-    * Information in terms of physical parameters where values change over a continuous range (eg. Sound)
+    * Information in terms of physical parameters where values change over a continuous range (eg. Sound, Thermometer, Analog Clocks)
     * Wave pattern of the original sound is patterned onto the electrical signal
     * Amplitude, Wavelength (s/f), Period (1/Frequency)
   * **Digital Age**
