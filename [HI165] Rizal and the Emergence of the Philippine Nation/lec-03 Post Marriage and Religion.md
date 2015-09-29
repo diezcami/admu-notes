@@ -1,6 +1,6 @@
-# Marriage and Religion
+# Post Marriage and Religion
 
-## Marriage
+## Post-Marriage
 * Loarca corroborated this account when he wrote about the Bisayan
   * It is considered a disgrace among them to have many children; for they say that when the property is to be divided among many children [it's easier to manage things economically with one kid
 * Women raised pigs because they believed it'd make them pregnant
