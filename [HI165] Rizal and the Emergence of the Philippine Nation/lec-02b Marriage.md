@@ -63,7 +63,3 @@
 * Arranged marriages were common
   * If the bride is bad and trashy, you don't need to pay the dowry
   * It should be an honor for someone to want to marry you
-
-
-
-

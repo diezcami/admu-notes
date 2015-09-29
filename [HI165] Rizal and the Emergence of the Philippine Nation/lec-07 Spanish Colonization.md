@@ -107,18 +107,3 @@
     * Imposed Catholicism
     * Diameter of Encomienda became bigger each year to "capture" people who did not want to be part of it
       * **Bayanihan**: Created to escape the encomienda practices
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

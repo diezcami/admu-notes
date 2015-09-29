@@ -1,4 +1,4 @@
-# Philippine Mythology
+# Philippine Mythology and Death
 
 ## Creatures in PH Mythology
 * When the Spanish came to the PH, they had a hard time making the natives believe in heaven
