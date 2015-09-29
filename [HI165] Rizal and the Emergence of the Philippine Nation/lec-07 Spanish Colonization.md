@@ -38,7 +38,7 @@
 * **Problem**
   * The problem and solution gets lost because of the number of people you have to pass the problem to
   * It takes the boat 6 months to get to Spain, 6 months to get to the PH, and months to deliver the message
-  * "Obedezco pero no cumplo" 
+  * **"Obedezco pero no cumplo"**: Laws made by the Church but do not apply to some parts of colonies
 
 ## Three Goals in the PH
 * Religion: How do you force the PH to accept Christianity at the same time forcing them into a civilization?

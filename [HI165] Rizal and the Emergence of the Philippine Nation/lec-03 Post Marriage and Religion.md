@@ -19,8 +19,11 @@
     * Used mainly for procreation
 * (p.27) As soon as the young wife conceived, she and her husband immediately observed **certain practices (pamahiin)**
   * Raised pigs and sacrificed at birth to the anito
-  * Anito: Environmental spirits [replaced by saints] responsible in making the women pregnant, whereas men only acted as vessels
-    * **Tiktik**: Man should stay in the house otherwise the creature'd attack. It attaches itself to the house of a person and drops a very long tongue attaching to the woman's womb and sucks the baby out. People place stakes on their roofs.
+  * **Anito**: Environmental spirits [replaced by saints] responsible in making the women pregnant, whereas men only acted as vessels
+    * **Tiktik**: 
+      * Man should stay in the house otherwise the creature'd attack. 
+      * It attaches itself to the house of a person and drops a very long tongue attaching to the woman's womb and sucks the baby out. 
+      * People place stakes on their roofs.
     * Don't eat peanuts/beans because it'll make your child dull, sometimes fish as well.
     * Husband does not cut his hair until his wife delivers, as his child would not be born otherwise [not that prevalent]
   * (p.28) They were likewise prohibited from eating bananas that are joined one with another or any other food athat are two in one because they believed they would give birth to 2 creatures from the same womb to which they consider a great insult.
@@ -29,9 +32,9 @@
   * Women on their first pregnancy are averse to climbing any house if htey are not given a little buyo or salt
   * (p.29) As soon as the child is born, several taboos were observed. It was believed that if rice were to fall from the mortar and eaten by chickens, the child would die.
   * (p.29 3rd) Child naming was done as soon as the child was a few days old. The child was named by its mother after certain circumstances attended to the birth [how the mom felt during the birth], or [the first thing the baby sees after birth]
-    * Pat-ama, pat-ina
-  * Bringing up the child during pre-Spanish days: The mother taught hte daughter the female rules of the house while the father trained the son to become a warrior. When the boy reached 8, they were taught to use bow/arrows/lances/spears. Sometimes, the chief would kill [read the thing]. In order to teach boys how to kill, they get corpses of enemies and let kids hack them. 
-  * Lobloba(??): takes his little son, sneak up behind a co-citizen, and helps the boy jab a spear into the buttocks
+    * **Pat-ama, pat-ina**
+  * Bringing up the child during pre-Spanish days: The mother taught the daughter the female rules of the house while the father trained the son to become a warrior. When the boy reached 8, they were taught to use bow/arrows/lances/spears. Sometimes, the chief would kill [read the thing]. In order to teach boys how to kill, they get corpses of enemies and let kids hack them. 
+  * **Lubloba (Village Idiot)**: takes his little son, sneak up behind a co-citizen, and helps the boy jab a spear into the buttocks
   * Spanish wanted the Filipinos to appear barbaric so they could paint their image of Christianity
 
 ## Religion and Belief System

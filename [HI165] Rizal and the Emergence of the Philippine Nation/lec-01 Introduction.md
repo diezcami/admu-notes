@@ -31,18 +31,30 @@
   * Archipelagic with 7107 islands
     * Bad: Created a sense of isolation - failed to create a unified order
     * Good: Hindered the expansion of the Spanish
-  * Northernmost Point: Batanes
-    * Houses are made of stone and not in stilts due to the occurrence of typhoons and cold weather
+  * Northernmost Point: **Batanes**
+    * Houses are made of stone and not in stilts due to the occurrence of typhoons and cold weather (Closer to ground = Warmer)
+    * Almost 0 Crime Rate
+    * Very close to Taiwan
     * Honesty sari-sari store
   * Southernmost Point: Tawi-Tawi
+  * Calinga: there are headhunters, halo-halo
+  * Pampanga: they were forced to make delicacies
 * **Myths/Legends**
+  * Tatlong Princesa
+    * Luz, Vi, Minda (Luzon, Visayas, Mindanao)
+    * Their dad was strict, they left to search for true love and the king transformed them to islands to punish them
   * Two giants (one in the sky, one in the sea) throwing rocks at each other
   * Battle between Sky and Sea thanks to a bird that pissed the sea off
+    * Bird flying in the air, he had no place to land
+    * Decided to make the sea and sky fight each other
+    * Sea tried to attack the sky by throwing waves at it, sky threw stones at it
+    * The stones are the islands of the Phils
 * **Science**
   * Sea
-    * Fossilized remains of aquatic life
+    * Fossilized remains of aquatic life on PH terrain
     * Land came from volcanic activity
   * Part of Mainland Asia
     * Fits perfectly to the contours of Vietnam
   * Land Bridges
     * Islands used to be connected but water rose and removed the bridges (least likely)
+    * Created a sense of isolation: became very detrimental and advantageous (Spanish had a hard time colonizing the whole philippines)

@@ -6,7 +6,7 @@
   * They just know they're going to a place after they die, but not where
 * Used to scare people and avoid dwindling of population, "pananakot"
 * Makes people stay in groups so creatures wouldn't attack them
-* **Tikbala**: Horses arrived after Spanish period
+* **Tikbalang**: Horses arrived after Spanish period
 * **Tiktik**
   * Creature with a long tongue that eats the fetus of the pregnant woman
   * Asawa: Father protecting mother, pregnant mother should always have a companion (not necessaril father)
@@ -26,23 +26,31 @@
   * **Main Goal**: Explains nightmares, and why their chest pounds when they wake up
 * **Aswang**
   * There is a creature in every culture that sucks blood
-  * Counterpart of the Babaylan
+  * Female ounterpart of the Babaylan (Arch enemy)
   * She will latch herself on top of you (after 6pm) and suck your blood
   * Strategy: 
-    * Use a beautiful woman to lure people towards their barangay
+    * Use a beautiful woman to lure people towards a bigger number of soldiers
     * Wife stealing was common
     * Don't talk to strange women [boogeyman], someone who'd force you to stay indoors because it's not safe at night
+  * Different Interpretations:
+    * Luzon: Do not have a cupids bow
+    * Visayas: Cannot talk well because you're hiding fangs
+    * Mindanao: Very White
   * If you don't have a bridge in your nose, you're an aswang
+  * Still exist in nondeveloped countries
+  * 1950's: Insurgency Problem
+    * The CIA of the PH: They captured soldiers and drained blood on the neck then throw them out in the jungle so that they will surrender
   * **Main Goal**: To control the movement of the population
 * **Kapre***
   * Spanish/ Mexican
   * Etymology in Mexican: Kafre, or murdered nigro
-  * Smoking tobacco and wearing a loin cloth, as big as the CTC, lives in a balete tree
+  * Smoking tobacco and wearing a loin cloth, as big as the CTC
+  * Lives in a balete tree
   * Very harmless, only wants to confuse travelers
   * Big deal, because Filipinos used to travel a lot
   * **Main Goal**: 
     * To confuse unsuspecting travelers
-    * Lets the Babaylan create **Anting-Anting** and attach them to your leg
+    * Lets the Babaylan create **Anting-Anting or Agimat** and attach them to your leg
     * Lets men remember where they're going in their journeys
 
 ## Death and Burial
@@ -54,7 +62,7 @@
     * If you need a lot of creativity in creating a concept of the religion, then it means there's a **surplus in food**
       * Why does surplus indicate strong connections with religion?
         * If there's a surplus, not everyone's required to harvest/plant/hunt. It indicates that a segment of the population can do other segments or tasks.
-    * There is a **specialisations**: Individuals who gather, stay at home, hunt, and do medicine, and religion
+    * There is a **specialisation**: Individuals who gather, stay at home, hunt, and do medicine, and religion
       * Having one religion indicates there is specialisation
       * It's more difficult to create more rituals in order to tell what happens when we die
 * The idea of death and burial has a strong connection with the belief system that we have
@@ -71,7 +79,7 @@
     * He will be received in the afterlife with great care and enthusiasm
       * Bathala and the anitos would pay no expense in accepting this person immediately in the afterlife. If the person's not important, they fall in line to get into heaven.
       * Not done for us, but for the entities that are going to receive
-* (p.33) THe body of the dead was sponged with a concoction from boiled and pounded leaves and tubers, carefully wrapped in blankets, and embalmed. Then the ritual criers went around the village to announce the passing away of the dead man.
+* (p.33) The body of the dead was sponged with a concoction from boiled and pounded leaves and tubers, carefully wrapped in blankets, and embalmed. Then the ritual criers went around the village to announce the passing away of the dead man.
   * We are the only species in the world that gives importance to death and rituals
   * These rituals are very important and imply that a community is flourishing ; when a person dies, the whole community stops
 * Poor were buried in ordinary graves dug underneath the house (poor people's bodies were left to decay), while those who were rich kept in one of the places:

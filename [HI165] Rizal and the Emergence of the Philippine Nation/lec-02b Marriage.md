@@ -63,3 +63,5 @@
 * Arranged marriages were common
   * If the bride is bad and trashy, you don't need to pay the dowry
   * It should be an honor for someone to want to marry you
+* **Many Children**: In the PH, the more children you have, the better
+  * Practices to follow when pregnant: twin bananas, etc

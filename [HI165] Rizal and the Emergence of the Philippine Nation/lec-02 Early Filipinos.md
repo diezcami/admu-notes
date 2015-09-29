@@ -16,6 +16,7 @@
     * Colonial Period: Made us lose paradise
     * Postcolonial Period: Paradise comes again
   * **Andres Bonifacio**: Katipunan, Revolution 
+    * Goal: Remove Spanish from the PH
     * Held interviews for KKK aspirants:
       * Precolonial Period: What is the condition of the Philippines before? [Happy, Free]
       * Colonial Period: What is the condition of the Philippines during the Spanish occupation? [Distraught, bad things]
@@ -37,6 +38,7 @@
 * **Bamboo**: 
   * Sea was thrashing and ended up flooding the sky, along with the garden of Bathala [which had bamboo]. The bamboo started flowing downstream to where the Philippines was created
     * We came from god's garden and his favorite tree
+    * Concept of a great flood: Noah, Gilgamesh, China
   * The bird flying around pecked the bamboo and it opened - out came Malakas and Maganda
   * **Interesting facts:**
     * There is a notion of a great flood (Similar to China, Bible, Gilgamesh) because life came from a sea
@@ -100,9 +102,11 @@
   * One room, made from organic materials, isolated
   * Raised 3-4 meters above the ground to prevent wild animals from getting inside, keeping livestock (convenience of security and feeding)
   * Temporary, built in the middle of nowhere
+  * **Bayanihan**: Moving from one place to another
+    * To escape the Spanish control before changing to Bahay Bato
   * Communal use
-* **Military**
-* Weapons: Long for 'far' combat
+* **Military/Weaponry**
+  * **Long Knives**: Long for 'far' combat, less contact for close combat
 * **Headhunting (p.19)**: Using a bararao/palacul
   * To make sure person actually died [mostly for leaders/ important individuals]
   * Lessens the bloodshed (War ends after leader is decapitated)
@@ -112,14 +116,17 @@
     * Transform regular people into dependent/alipin is more valuable than killing that person [most important commodity]
     * If chiefly class are captured, they were offered for ransom in gold, or as slaves for life
   * Tinguianes fight after their harvest are done (no regular military, just the farmers/workers)
+  * Houses are built high because they do not want to fight with other people
+    * The goal is to escape, not to fight with others
+    * **People**: Most important commodity in the PH
   * **Causes of raids**
     * Unwarranted killing of natives in another town [fight back before more people die and numbers reduce]
-    * Stealing wives
+    * Stealing wives: transformed into alipins
     * Treachery when one goes in a friendly manner to another village trade
   * **How to scare enemies before fighting**
-    * More alliances/ merge with another barangay [Increase numbers]
-    * More weapons
-    * Pintados ("Painted Ones"): Body art/tattoos to scare enemies
+    * Have more alliances/ merge with another barangay [Increase numbers]
+    * Show you have more weapons
+    * **Pintados** ("Painted Ones"): Body art/tattoos to scare enemies
       * Keeps records of battles, death, courage
       * Horizontal lines: Mountains, Curvy lines: Water
 
