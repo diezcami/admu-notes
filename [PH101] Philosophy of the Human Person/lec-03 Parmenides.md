@@ -93,29 +93,36 @@
     * Minsan ay walang logos dahil isip mong may lisensya kang gawin ang lahat
 
 ## Semata
-  * Hudyat ng meron: kung anuman ang hudyat, simbolismo o talinhaga. Ang mga sagisag ay ginagawa pangturo para pag-unawaan ang bagay na pinagtuturuan.
-  * "Hindi ko masasabi ang kabuuan ng meron, kaya ipapahiwatig ko sa paraan ng mga semata"
-  * Thea: Semata ng meron
-  * **Dalawang central na semata**:
-    * **Panahon: Espesyal na ngayon** (Walang nginig/siksik)
-      * Hindi normal na pag-uunawa ng ngayon
-      * Walang puwedeng magbago sa meron
-      * Hindi puwedeng isilang ang meron: Implies na sa umpisa ay wala
-      * Hal. Pag-Ibig:
-        * Iniipon ang noon at hinaharap ngayon; ang mismong sinasabi ay lumalagpas sa panahon
-        * "Mahal kita" walang kondisyon sa panahon
-    * **Hugis Bola/Bilog**: 
-      * Tadhana ng diyos ang paraan ng meron -> kailangang may hugis dahil mahirap
-        * Mahirap dahil sanay tayong "if we give it a hangganan/boundary, it's an indication of limitation/imperfection"
-      * Sukat ang distansya mula sa gitna: Nagbibigay ng larawan sa kaganapan ng perfection
-      
+* Hudyat ng meron: kung anuman ang hudyat, simbolismo o talinhaga. Ang mga sagisag ay ginagawa pangturo para pag-unawaan ang bagay na pinagtuturuan.
+* "Hindi ko masasabi ang kabuuan ng meron, kaya ipapahiwatig ko sa paraan ng mga semata"
+* Thea: Semata ng meron
+* **Dalawang central na semata**:
+  * **Panahon: Espesyal na ngayon** (Walang nginig/siksik)
+    * Hindi normal na pag-uunawa ng ngayon
+    * Walang puwedeng magbago sa meron
+    * Hindi puwedeng isilang ang meron: Implies na sa umpisa ay wala
+    * Hal. Pag-Ibig:
+      * Iniipon ang noon at hinaharap ngayon; ang mismong sinasabi ay lumalagpas sa panahon
+      * "Mahal kita" walang kondisyon sa panahon
+  * **Hugis Bola/Bilog**: 
+    * Tadhana ng diyos ang paraan ng meron -> kailangang may hugis dahil mahirap
+      * Mahirap dahil sanay tayong "if we give it a hangganan/boundary, it's an indication of limitation/imperfection"
+    * Sukat ang distansya mula sa gitna: Nagbibigay ng larawan sa kaganapan ng perfection
+    
 
 
-  * **Creatio ex Nihilo**: Nilikha sa wala, baybayan: pag-ibig
-    * Nilalagyan ng rehas/kadena ang meron upang siguraduhin na walang makapasok na wala sa meron
-  * Meron lamang ang tanging may pangalan
-  * **Pantheismo**: Pan: Lahat, Theismo: diyos / "Lahat Parehas"
-  * **Panentheismo**: Lahat ay nasa diyos
+* **Creatio ex Nihilo**: Nilikha sa wala, baybayan: pag-ibig
+  * Nilalagyan ng rehas/kadena ang meron upang siguraduhin na walang makapasok na wala sa meron
+* Meron lamang ang tanging may pangalan
+* **Pantheismo**: Pan: Lahat, Theismo: diyos / "Lahat Parehas"
+* **Panentheismo**: Lahat ay nasa diyos
+
+## Ng Mga Namamatay
+* Lahat ng mabibigay ng pangalan ay meron: Mag-ingat, dahil hindi dapat nasasakop ng pangalan ang kabuuan ng meron
+* Ang mga pangalan (semata), sa dulo, ay nilikha lamang ng tao kaya ito'y hindi halaga
+* Even if the names are pointless, they're still names. You have to try everything sa pamamagitan ng lahat
+  * Kailangan pa din sumikap at magbigay ng pangalan
+  * Sa pamamagitan ng salita ay nakikita natin ang meron na nais sabihin
 
 
 ```
