@@ -107,3 +107,72 @@
     * Imposed Catholicism
     * Diameter of Encomienda became bigger each year to "capture" people who did not want to be part of it
       * **Bayanihan**: Created to escape the encomienda practices
+
+
+* **Permanent Residence**
+  * Form of control used by the Spanish but not recognized by the PH
+    * Wanted to contain PH because they were the only source of taxes
+    * Made PH start to westernize, they were no longer only producers but also consumers
+  * Lets them know what kind of people are paying their taxes
+  * Moves people away from nature (animism), which helps their goal of Christianity
+  * Big Windows: Houses serve as social gatherings
+    * The bigger the windows, the closer you are to the center
+  * Very intricate designs: more of function rather than fashion
+    * Very similar to the olden times
+  * **Bathrooms**
+    * In Bahay Kubos: Separate room where poop lands on stones for easy decomposition (they get really hot during the day)
+    * Permanent Residences: There are cup and cigarette holders; idea is to converse while pooping or peeing idk
+    * Bird cage with chimes: for people not to hear your pooping sounds
+  * **Large Balconies**: Meant you were very very wealthy
+* **Manila**
+  * Old Empire of Spain was being managed
+  * Economic, Military and Political Center
+  * **Chosen for several reasons**
+    * There was a powerful kingdom that existed even before they built their infrastructure
+    * The Chinese and other traders went to Manila to trade
+      * Spanish goal was to trade with Chinese and Japanese
+      * In CEbu they only traded with Muslims and Indonesians
+    * Manila is very well secured
+  * Started building their center in **Intramuros**
+    * A walled city (vs. Extramuros)
+    * Nobility = Datu
+    * Living inside Intramuros: You are very wealthy and connected with the Spanish
+      * Same idea with Plaza Complex: the closer you are to the center, the richer you are
+    * Adding up all the walls of Intramuros = 5 kilometers
+    * **Main center of Spanish control in the Philippines**
+      * Lots of cannon placements
+      * Very thick walls
+  * **Fort Santiago**: Where Rizal was incarcerated
+  * **Luneta Park**: Center of the Philippines, all roads are measured at that center
+    * Controlled near toe Pasig River so they can control the ships
+  * **Parian**: Markets for the Chinese
+    * Binondo: Only place where the guns of Intramuros could not reach them
+
+
+  * What is History
+  * Pre-History
+    * Origin of the People
+      * Myths
+      * Migrations
+    * Culture/ Way of Life
+      * Religion
+        * Bathala
+        * Anito
+        * Animism
+      * Political/ Barangay
+        * Datu, Maharlika, Timaua, Alipin
+    * Military
+    * Marriage
+  * 1521
+    * Arrival of Spanish
+    * Conditions in Europe
+      * Commercial Revolution
+      * Age of Discovery
+    * Ferdinand Magellan
+      * Battle of Mactan: How we want to perceive history even if it's not documented
+    * Political System
+      * Theocratic
+    * Economic
+    * Socio-Economic
+
+  * Even before the SP arrived, the PH were already able to accomplish something unique. If we weren't colonised, we probably would've developed a much stronger and larger community.
