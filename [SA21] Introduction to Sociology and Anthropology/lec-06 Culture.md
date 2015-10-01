@@ -15,3 +15,8 @@
 ## Creation of Culture
 * Social structures are designed by humans
 * Human Activity: Habit => Pattern => Economy of Effort (without thinking)
+
+## Cultural Relativism
+* We have a tendency of looking at those who have different cultures as "strangers"
+* Extreme Cases: Discrimination, Racism
+* **Anthropological Theory of Culture Classification**

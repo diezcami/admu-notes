@@ -213,6 +213,7 @@
   * Create a support and setting of free choice, empashizing moderation and balance coupled with physical activity and spiritual exercises
   * A long term commitment to healthy choices
 
+
 # Building blocks, stumbling blocks
 * **Biotechnology**
   * Technology that *utilizes living organisms to build our products*
