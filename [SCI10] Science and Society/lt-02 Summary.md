@@ -1,7 +1,18 @@
 # Science, Technology and Lifestyle
 
-## Telecommunications in the 21st Century
-* **Telecommunications**: Long distance communication
+## Ted Talk Review
+* Lawrence Lessig
+* **Infernal talking machines**
+  * Effect on creating culture: Afraid it would go from read/write to read-only
+* **Plane flying over farm**: court decided planes were not trespassing because of common sense
+  * Inventions of airplanes made people rethinktrespass law
+* **ASCAP vs BMI**: Broadcasting Towers
+  * ASCAP had the IPR's for music and had monopoly at that time, BMI had to pay ASCAP for music
+  * They raised their patent by 400% => People shifted to free version provided by BMI (provided an alternative)
+
+# Telecommunications in the 21st Century
+## Background on Telecommunications 
+* Long Distance Communication
 * **Three Trends of Technology**
   * Moved towards Digital Information
     * Ease of recording, reproduction and transmission
@@ -23,8 +34,39 @@
     * **RA3436**: PLDT was granted a franchise to install, operate and maintain a telephone system (Nov 28 1928-1978)
     * **PD1978**: 1% Government Tax on PLDT
     * **RA6146 (1970)**: Replace party line services with main line services
+    * 2010: 6.783M landlines but 92.28M cellphone lines
+
+## Analog vs Digital Age
+* **Analog**
+  * Information in terms of physical parameters where values change over a continuous range (eg. Sound, Thermometer, Analog Clocks)
+  * Wave pattern of the original sound is patterned onto the electrical signal
+  * Amplitude, Wavelength (s/f), Period (1/Frequency)
+* **Digital Age**
+  * Binary method to represent numbers (1 byte = 8 bits)
+  * **ASCII**: American Standard Code for Information Exchange
+  * **Block Information**: Files with text or graphical information (eg. Data files, documents, pictures)
+  * **Stream Information**: Series of images and frames (eg. Audio and Video files)
+  * **Resolution**: How often you sample a signal
+    * Sampling the signal: Checking the value at certain intervals
+    * Converting from analog to digital: Check times more often
+    * Low Res vs High Res: Storage Space, Computing Power
+  * **Nyquist Criterion**: 
+    * To get a good representation of your analog signal, you have to sample faster than the highest frequency content of the signal
+    * Frequency (Hz): number of vibrations in a second 
+  * **Advantages**
+    * Mixing of various media in a single environment (eg. Multimedia Capable Phones) / Ease of Recording
+    * Tolerance to noise (Electro Magnetic Interference)
+    * Prices of digital circuits have dropped down considerably due to large&very large scale IC's compared to analog circuits
+  * **Disadvantages**
+    * Conversion from analog to digital may not be exact (needs more sampling to store resources)
+    * Requires more time to submit (due to space and nature)
+    * Error checking and correction methods are vital as every bit is significant
+    * Solved with **compression methods**
+
+## Telecommunications in a Digital Age
 * **Advances in Electricity and Magnetism**
   * Purpose of Telecommunications: Transmit and receive information from one geographical location to another
+  * Led to Morse Code, Telegraph and Telephone
   * **Optical Telegraph**
     * Early telecommunication
     * Semaphore Telegraph: Used hand-like devices on a tower to transmit messages with different angles of "hands"
@@ -38,36 +80,15 @@
     * The Bell Telephone Company => Lucent Technologies
     * **Transmitter**: Microphone, converts the sound of caller's voice into electrical signals
     * **Receiver**: Handset, converts electrical signals back to sound waves
-* **Digital Age: 0s and 1s Rule**
-  * **Analog**
-    * Information in terms of physical parameters where values change over a continuous range (eg. Sound, Thermometer, Analog Clocks)
-    * Wave pattern of the original sound is patterned onto the electrical signal
-    * Amplitude, Wavelength (s/f), Period (1/Frequency)
-  * **Digital Age**
-    * Binary method to represent numbers (bits)
-    * **ASCII**: American Standard Code for Information Exchange
-    * **Block Information**: Files with text or graphical information (eg. Data files, documents, pictures)
-    * **Stream Information**: Series of images and frames (eg. Audio and Video files)
-    * **Resolution**: How often you sample a signal
-      * Sampling the signal: Checking the value at certain intervals
-      * Converting from analog to digital: Check times more often
-      * Low Res vs High Res: Storage Space, Computing Power
-    * **Nyquist Criterion**: 
-      * To get a good representation of your analog signal, you have to sample faster than the highest frequency content of the signal
-      * Frequency (Hz): number of vibrations in a second 
-    * **Advantages**
-      * Mixing of various media in a single environment (eg. Multimedia Capable Phones)
-      * Tolerance of digital information to noise (Electro Magnetic Interference)
-      * Prices of digital circuits have dropped down considerably due to large&very large scale IC's compared to analog circuits
-    * **Disadvantages**
-      * Conversion from analog to digital may not be exact (needs more sampling to store resources)
-      * Requires more time to submit (due to space and nature)
-      * Solved with **compression methods**
-* **Wireless Communication**
-  * **Wires**: Oldest material for transition
+
+## Wireless Communications
+  * **Wires**: 
+    * Oldest material for transition
+    * Telegraphs and Telephones use electromagnetic fields, though stations are linked by electrical wires made of copper
     * Expensive, bulky and heavy
     * Susceptible to corrosion, noise and voltage sparks
-  * **Fiber Optics**: Fibers that transmit light (continuously reflected)
+  * **Fiber Optics**: 
+    * Fibers that transmit light through total internal reflection (no light transmission)
     * Thin and light, carry signals for long distances without large diminution
     * Large Bandwidth
   * **Radio Waves**: 
@@ -75,21 +96,37 @@
     * AM: High amplitude=1, Low amplitude=0
     * FM: High frequency is 0, Low frequency is 1
     * **RA7925 Section 4C**: Radio frequency spectrum is a public resource, and the government has to allocate the electromagnetic spectrum to these broadcasters
-* **Communication over Networks**
-  * Switching/Routing Calls: telephone switchboard operators => dial switchboards => electronic switching devices => computers
-  * Networks: Make long distance communication more efficient because resources are better shared
-* **Narrow Band: Time Domain Multiple Access (TDMA)**
-* **Wide Band or Spread Spectrum: Code Division Multiple Access (CDMA)**
-* **Cellular Phone Networks**
-* **The Internet**
-* **Mobile, Personal and Multifaceted**
-* **How have these trends in telecommunications affected our lifestyles and values?**
+  * **Cellular Phone Networks**
+    * Networks: Make long distance communication more efficient because resources are better shared
+    * Succeeded the analog radio phones
+    * Handoff/Handover: Process of call switching to different cells
+    * **Time Division Multiplexing (TDM)**: 
+      * TDMA: Time Domain Multiple Access
+      * A single channel is divided into several time slots. Each slot is used by a different phone call.
+      * WDM: Wavelength Divisio Multiplexing
+      * GSM Standard of the Philippines
+    * **Code Division Multiplexing (CDM)**: 
+      * CDMA: Code Division Multiple Access
+      * Wide range of frequency channels are use.
+      * A call is divided and coded so it can be reassembled again at the other end.
+    * **Advantages**:
+      * More users
+      * Transmitters are low powered because the target is a nearby cell site and not a network center
+    * **Disadvantage**:
+      * A number of cell sites have to be set up to serve the population
+
+## Effects of trend in Telecommunications
   * In the telegraph era, sending a message could not be done so from houses. You had to go to a community telegraph system
-  * From communal to personal
+  * Telecommunication devices became more communal (less personal)
   * Exposure to a larger community: Has been used to help combat things like culture shock
   * The Internet and Globalization: Economy and business transactions are easier on a global scale
+  * **Going digital** has allowed text, images and various forms of media to come together in a single environment.
+  * **Going wireless** has allowed mobility and flexibility in communication.
+  * **Going small** gave rise to nano technology.
+    * From Vacuum Tube=>Transistors=>Silicon Chips
+    * Moore's Law: Over the past few decades, the number of transistors we can fit in a small space doubles every 2 years (Integrated circuits are 1 nanometer thick)
 
-## Have your cake and eat it, too
+# Have your cake and eat it, too
 * **Why We Eat**
   * "You eat or you die"
   * Eating adaptations in humans: Movable jaw, teeth, bacteria in our gut
@@ -127,7 +164,7 @@
   * To meet their **dietary needs and food preferences**: Food as a need and a culture
   * for an active and healthy life
 
-## Building blocks, stumbling blocks
+# Building blocks, stumbling blocks
 * **Biotechnology**
   * Technology that *utilizes living organisms to build our products*
   * Use of living systems and organisms to develop or make products, or "any technological application that uses biological systems, living organisms or derivatives thereof"
