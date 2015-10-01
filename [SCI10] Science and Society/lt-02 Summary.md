@@ -126,43 +126,92 @@
     * From Vacuum Tube=>Transistors=>Silicon Chips
     * Moore's Law: Over the past few decades, the number of transistors we can fit in a small space doubles every 2 years (Integrated circuits are 1 nanometer thick)
 
+
 # Have your cake and eat it, too
-* **Why We Eat**
-  * "You eat or you die"
-  * Eating adaptations in humans: Movable jaw, teeth, bacteria in our gut
-  * Homo Erectus (female) consumes about 2500 cals/day, but ate for 6 hours/day
-    * Less in modern times due to processing and cooking: detoxification, more digestible
-* **Food Consumption and Filipino Households**
-  * Rice, Fish and Vegetables
-  * Sangkap Pinoy Seal: Only 16% know what it's for
-  * Most consumed fortified food (for children, pregnant and lactating women): Noodles and Sardines
-  * 3/10 Fil children are stunted, 2/10 are underweight: Social classes => Less access for 5th Q
-* **Unhealthy Diets**
-  * Large waistlines are more vulnerable to heart and vascular diseases, ailments, etc
-  * **Parts of a poor diet:**
-    * Energy Dense and Nutrient Poor Foods
-    * High in Saturated Fat, Trans Fat, Salt and Refined Carbs (Passive Overconsumption)
-    * Low consumption of fruits and vegetables (fiber)
-  * We ironically eat food that doesn't help the "or you die" case
-  * Reasons for eating other than survival: social situations, fun, comfort, as an art
-    * eg. Pahiyas Festival, Gary Alan Fine
-    * Gary Fine/Warren Belasco: Connection between identity and consumption gives food a central role in the creation of community, and we use our diet to convey images of public identity.
-* **How have diets changed over the years?**
-  * Telecommunication Advances: Access to international cuisines and broadening of perspectives
-  * More processed foods: Busy lives, no time to cook (eg. Fast food, microwaveable dishes)
-  * Lack of knowledge of food supply chain: Due to Globalization, we can get produce from international sources
-    * Simple: "I grow, I eat"
-    * Linear: Surplus, agricultural economies
-    * Multifactiorial: Many growers producing different things
-    * National: Expanding infrastructures and production diversity
-    * International/Global: Increased GDP, trade agreements, advanced infrastructure for imports/exports
-  * We focuse more on market prices than supply chain
-* **Food Security**
-  * Exists when all people at all times have
-  * **Physical and economic access** to: Actually there and affordable
-  * **Sufficient, safe and nutritious food**: Adequate supply and of good quality
-  * To meet their **dietary needs and food preferences**: Food as a need and a culture
-  * for an active and healthy life
+## "You eat or you die"
+* Eating adaptations in humans: Movable jaw, teeth, bacteria in our gut
+* Homo Erectus (female) consumes about 2500 cals/day, but ate for 6 hours/day
+  * Less in modern times due to processing and cooking: detoxification, more digestible
+* **John Fernstrom**: 
+  * Coffee, tea and chocolates contain cafferine raising alertness
+  * Folate: Facilitating mood reactions, supplement for anti-depressant therapy
+* **Denis Burdakov**:
+  * Too much glucose: Conserve energy after a heavy meal, inducing sleepiness
+  * "Sugar Rush" as a result of energy stored from glucose
+* **Antoine Lavoisier**: Laid foundations for nutrition science
+* **Warren Belasco**: Food integrates the world and lets us see social consequences of private actions, reminding us of our moral responsibilities
+* *Main expression of culture and family values on the individual level*
+* *Multi-billion dollar international business on the societal level*
+
+## Food Consumption and Filipino Households
+* Rice, Fish and Vegetables
+* Sangkap Pinoy Seal: Only 16% know what it's for
+* Most consumed fortified food (for children, pregnant and lactating women): Noodles and Sardines
+* 3/10 Fil children are stunted, 2/10 are underweight: Social classes => Less access for 5th Q
+
+## Unhealthy Diets
+* Large waistlines are more vulnerable to heart and vascular diseases, ailments, etc
+* **Parts of a poor diet:**
+  * Energy Dense and Nutrient Poor Foods
+  * High in Saturated Fat, Trans Fat, Salt and Refined Carbs (Passive Overconsumption)
+  * Low consumption of fruits and vegetables (fiber)
+* We ironically eat food that doesn't help the "or you die" case
+* Reasons for eating other than survival: social situations, fun, comfort, as an art
+  * eg. Pahiyas Festival, Gary Alan Fine
+  * Gary Fine/Warren Belasco: Connection between identity and consumption gives food a central role in the creation of community, and we use our diet to convey images of public identity.
+
+## How have diets&the food industry changed over the years?
+* Telecommunication Advances: Access to international cuisines and broadening of perspectives (Globalisation)
+  * eg. **Tuna trade**: Globalisation of the Japanese sashimi
+  * **Pros**: Supporting economic growth on a global scales brings improvements in health and advances in technology
+  * **Cons**: An increase in global poverty and a widening of the rich/poor gap
+* More processed foods: Busy lives, no time to cook (eg. Fast food, microwaveable dishes)
+* Lack of knowledge of food supply chain: Due to Globalization, we can get produce from international sources
+  * Simple: "I grow, I eat"
+  * Linear: Surplus, agricultural economies
+  * Multifactiorial: Many growers producing different things
+  * National: Expanding infrastructures and production diversity
+  * International/Global: Increased GDP, trade agreements, advanced infrastructure for imports/exports
+* We focus more on market prices than supply chain
+* **Food Industry Problem**
+  * People want healthier food products, but tell companies to make them instead of substantially changing lifestyles.
+  * **Harry Balzer**: Taste, Value and Convenience are above Health and Nutrition.
+
+## Study of Nutrition
+* Science of nutrition depends on what is being studied and who funds those studies
+  * eg. **Iron**
+    * An essential nutrient and significant in the production of hemoglobin
+    * Excessive intake limits the absorption of Zinc
+    * When taken with Calcium, decreases the absorption of Iron
+    * Iron found in animal products is more readily absorbed than iron ingested from plant sources
+  * Prompted the science of nutrition to expand from qualitative to quantitative research
+* Different species require different types of ingredients at different amounts in specific stages of development
+  * Children need less zinc
+  * Pregnant women need more folate 
+* **Five Leading Global Risks**: High BP, Tobacco use, High Blood Glucose, Physical Inactivity, Overweight/Obesity.
+  * There is a global shift in mortality from communicable to non-communicable diseases (cardiovascular, diabetes, etc)
+
+## Food Security
+* Exists when all people at all times have
+* **Physical and economic access** to: Actually there and affordable
+* **Sufficient, safe and nutritious food**: Adequate supply and of good quality
+* To meet their **dietary needs and food preferences**: Food as a need and a culture
+* for an active and healthy life
+
+## Four Pillars of Choosing what to Eat
+* **Research**:
+  * Indicates how **lifestyle** can impact individual and public health
+  * Research on nutrients, healthy preparation of food, and good/bad habits.
+* **Structures and Politics**
+  * Policies and structures must support and promote healthy choices and avoid unhealthy practices in the production, storage, transport, distribution and disposal of food.
+  * Advertising and Promoting food must be done truthfully.
+* **Availability and Accessibility**
+  * Groceries/Convenience stores either offer healthy food in a separate section or don't offer it at all, or are higher-priced than regular food.
+  * Food labels have not been standardised in the PH (eg. no approved therapeutic claim)
+* **Individual Need and Choice**
+  * Not to take an extreme view regarding food and health
+  * Create a support and setting of free choice, empashizing moderation and balance coupled with physical activity and spiritual exercises
+  * A long term commitment to healthy choices
 
 # Building blocks, stumbling blocks
 * **Biotechnology**
