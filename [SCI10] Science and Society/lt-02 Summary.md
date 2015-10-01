@@ -1,7 +1,7 @@
 # Science, Technology and Lifestyle
 
 ## Ted Talk Review
-* Lawrence Lessig
+* **Lawrence Lessig**
 * **Infernal talking machines**
   * Effect on creating culture: Afraid it would go from read/write to read-only
 * **Plane flying over farm**: court decided planes were not trespassing because of common sense
@@ -9,6 +9,24 @@
 * **ASCAP vs BMI**: Broadcasting Towers
   * ASCAP had the IPR's for music and had monopoly at that time, BMI had to pay ASCAP for music
   * They raised their patent by 400% => People shifted to free version provided by BMI (provided an alternative)
+
+* **Paul Wolpe**
+  * Waves of Evolution
+    * Darwinian (Passive): Adapt or evolve according to environment
+    * Civilization: Controlling evolutionary environment, altering ecological niche to our needs
+    * Directed Evolution
+      * eg. Dogs are a result of selectively breeding desired traits
+      * Beefalo, Geep, Cama, Liger, Zorse
+    * **Advantages of GE**
+      * Using GE to save endangered species (eg. Guar/Mouflon)
+      * Using GE to make animals produce medicine (eg. Transgenic Pig)
+      * Monkey with 3 functional arms (potential for prosthetics)
+    * **More controversial advancements of GE**
+      * Insect Bots, Robo Rat, Organic Robot
+        * Taking away the autonomy of animals
+      * Using an eel brain as a processor for a cart (in a nutrient medium)
+      * **Charles Vacanti**: Creating an ear on a mouse
+      * Ethics involved in designing animals and for using GE on ourselves
 
 # Telecommunications in the 21st Century
 ## Background on Telecommunications 
@@ -215,6 +233,7 @@
 
 
 # Building blocks, stumbling blocks
+## Class Notes
 * **Biotechnology**
   * Technology that *utilizes living organisms to build our products*
   * Use of living systems and organisms to develop or make products, or "any technological application that uses biological systems, living organisms or derivatives thereof"
@@ -228,8 +247,11 @@
   * **Notable Examples**
     * **Flavr Savr**: Tomatoes that last longer, from changing the enzyme that caused them to rot (Last longer in shipments)
     * **Transgenic Squash**: Resists viruses, outproduces other squash that grow in the wild (Less Loss)
-    * **Golden Rice**: Has Vitamin A from daffodil and soil bacteria (meant to address Vitamin A deficiency)
+    * **Golden Rice**: Has Vitamin A from daffodil and soil bacteria (Erwinia Uredovora), incorporated into Agrobacterium Tumefaciens.
+      * Meant to address Vitamin A deficiency
     * **Bt Corn**: Repels a pest (Corn Borer, Bacillus Thuringiensis) using bacterium from the soil
+      * Reported deaths among monach butterfly caterpillars
+    * **Biodegradable Plastic**: Produced in cell granules of a bioengineered weed called mouse-eared cress.
 * **Issues**
   * Genes from another species can bring **Unanticipated Effects** (eg. transferring traits other than the one desired)
     * eg. Might contain bacterium toxins to insects we don't want to eliminate (eg. Monarch Butterfly, Caddisfly)
@@ -244,9 +266,24 @@
   * No standardised **labeling system**: Consumers need to be informed of what they're consuming
   * Proper education of consumers and law makers: Inform them of the positive effects of GE and Biotechnology
   * Transparency of Companies: Confront issues and inform the public properly
-* **Is Genetic Engineering the answer to food security in developing countries?**
 
+## Debate Notes
+* **Positive**
+  * Clones of bioengineered bacteria have helped the pharmaceutical industry
+    * Less samples used, less allergies and less costs incurred
+    * Escherichia Coli have an insulin producing gene that can be cloned, reducing the blood sugar levels of diabetic patients.
+    * Production of human growth hormones for patients who lack them for normal growth.
+  * Beneficial in food production, treating illnesses, and preserving species.
+    * Can get rid of defective genes that cause aggressive behavior, alcoholism, etc.
+  * Increase physical accessibility of nutritious food (more resistant to below average soil prevalent in LDC's)
+* **Negative**
+  * Cloned animals bear abnormalities
+    * eg. Dolly the sheep dying 6 years before her expected life span
+    * Only 1% of cloned cows result in a healthy birth
+  * Long term cumulative effects of GMO's
+  * Impact on food web: Evolution of more invasive species, likelihood of extinction of wild relatives
 
-
-
-
+## Book Notes
+* **Friedrich Miescher**: Phosphorus bearing compound from nuclei found in pus cells, named nuclein
+* **Mendelian Theory of Inheritance**: Proof of transmission of traits from genetic material
+* **Ian Wilmut**: Dolly the Sheep
