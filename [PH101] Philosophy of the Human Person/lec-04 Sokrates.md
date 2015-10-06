@@ -40,3 +40,6 @@
   * Karpintero, Tubero, Cook: Magaling sa materyal
   * Maliwanag na may alam sila na hindi alam ni Sokrates
   * Dahil may galing, they think they know how to do things they haven't made yet (eg. rocking chair)
+* **Subukan natin pagmunihan pa**: 
+  * Kung meron mang patunay na wala akong ginagawang masama, ay itong buhay ko na nasa malubhang karakatan
+  * Walang ginawa si Sokrates na nasa interes niya
