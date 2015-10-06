@@ -20,3 +20,19 @@
 * We have a tendency of looking at those who have different cultures as "strangers"
 * Extreme Cases: Discrimination, Racism
 * **Anthropological Theory of Culture Classification**
+
+## Pop Culture
+* **Consensus Perspective**
+  * Ability to enhance the stability or solidarity of a social system [refresh workers]
+  * Ability to transmit images, values and norms that legitimise existing patterns of thought and action [keeps the sytem in place, does not challenge]
+  * Creativity still within social order
+* **Conflict Perspective**
+  * Popular culture is not created by the populace
+  * Are actors of popular culture "free" or are they simply representing producst wanted be gatekeeprs/owners/powerful people? Is there such a thing as real genuine creativity?
+
+* **Ideological Hegemony**
+  * Control over cultural objects and symbols
+  * Since they [the powerful] control the educational system, religious institutions and mass media, their view of the world becomes accepted as truth.
+  * Owner of mass media is invisible
+
+  * Functionalist, Symbolic-Interactionist
