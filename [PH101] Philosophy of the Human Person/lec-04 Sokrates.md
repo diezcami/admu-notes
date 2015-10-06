@@ -43,3 +43,4 @@
 * **Subukan natin pagmunihan pa**: 
   * Kung meron mang patunay na wala akong ginagawang masama, ay itong buhay ko na nasa malubhang karakatan
   * Walang ginawa si Sokrates na nasa interes niya
+  * It's easier to notice the loud people than the quiet ones eg. We recognize MVP but not teachers
