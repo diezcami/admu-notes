@@ -84,4 +84,32 @@
   * Wrap it on the ring finger: "I have a husband"
   * Wrap it on your whole hand: "I like you"
 
+## ???
+* **Religious**
+  * Through westernizing them
+  * Civilised them to remove animism/paganism
+    * Removing of religious grounds
+      * eg. Removing a tree and placing a church in place of it, to have no means to connect to it again
+    * Visita Iglesia: Before Easter, go into different churches
+      * In the Spanish period, the priests visit communities (too far apart)
+      * Cover their faces or prevent themselves
+    * Purged the Babaylan: Female religious leaders
+    * Remove superstitious beliefs
+      * Agimat/Anting-anting => Rosary/Scapula
+      * Sacred trees => Church
+      * Good/Bad: Gave drawings of indio being eaten by a large snake (What happens if you don't follow us)
+* **Chinese**
+  * Hierarchy: Spanish => Indio/"Filipino" => Japanese/Dutch/Europeans => Chinese
+  * Placed in the **Parian**: Market Place/ China Town
+* **Food**
+  * Best way to understand the influence of other countries in the PH
+  * Balance in contrast (eg. Adobo: salty/sour)
+  * Asado = Pork = Sweet
+  * Paella
+  * Menudo/Mechado
+  * Not a part of our daily routine: Pan de Sal, Maize (Corn)
+  * Pancit: From the Chinese
+    * Fast food
+    * Lomi, Mami, Miki
+* **Entertainment**
 
