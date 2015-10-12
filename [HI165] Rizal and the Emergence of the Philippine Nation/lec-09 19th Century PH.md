@@ -1,6 +1,7 @@
 # 19th Century Philippines
 
 * We don't have history during the 19th century (1800-1899) because the Spanish were busy on colonisation
+* All about the rise of PH Nationalism
 
 ## Nationalism
 * Revolution (1896)
