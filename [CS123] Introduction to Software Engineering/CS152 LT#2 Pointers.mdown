@@ -1,0 +1,30 @@
+# CS152A LT#2 Pointers
+
+* **Timing of Synchronous Circuits**
+  * State Machines vs Pipelined Machines
+  * Timing Parameters: tpdC-Q, tcdC-Q, ts, th
+  * Hold Time and Minimum Clock Period
+    * Computing with same registers
+    * Computing with different registers
+  * Converting from hz => Mhz => Ghz
+  * **Clock Skew**
+    * Memorize delayed out, delayed in and clock skew table
+  * Asynchronous Inputs
+* **Pipelining Circuits**
+  * Throughput: # of outputs / tclkmin
+  * Latency: # of stages * tclkmin
+  * Compute throughput and latency
+    * Computing with unpipelined tclk
+    * Computing with pipelined tclk
+  * Actually pipelining a circuit
+    * Maximize throughput, minimize #stages, identify highest tpd
+* **Finite State Machines**
+  * K states, N inputs, M outputs
+  * Moore vs Mealy Machines
+  * Password Lock "Optimisation"
+  * Drawing a FSM (PS140 Style)
+  * Minimizing a FSM (Weird tables)
+* **Datapaths**
+  * Compute K = (using tables)
+  * Moore vs Mealy application
+  * Register Transfer Language
