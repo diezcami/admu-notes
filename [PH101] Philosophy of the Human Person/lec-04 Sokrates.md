@@ -46,3 +46,9 @@
   * It's easier to notice the loud people than the quiet ones eg. We recognize MVP but not teachers
 
 * Socrates=>Plato=>Aristotle: There are people who know 'mabuti' but don't do it
+* Buhay/Kamatayan
+* Mabuti (Dike)/Masama (Adikos)
+* May dapat gawin
+* Kaalama/Karunungan nararapat sa tao
+* Karunungan used to be just karunungan, but now it revolves around katarungan (mabuti/dike)
+  * Socrates: Gumagawa ng relasyon sa dalawa
