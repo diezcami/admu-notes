@@ -47,8 +47,22 @@
 
 * Socrates=>Plato=>Aristotle: There are people who know 'mabuti' but don't do it
 * Buhay/Kamatayan
-* Mabuti (Dike)/Masama (Adikos)
+* Buhay:Mabuti (Dike)/ Kamatayan: Masama (Adikos)
+  * Yung taong may konting dangal ay hindi umiikot sa kamatayan ung hindi sa mabuti at masama
 * May dapat gawin
 * Kaalama/Karunungan nararapat sa tao
 * Karunungan used to be just karunungan, but now it revolves around katarungan (mabuti/dike)
   * Socrates: Gumagawa ng relasyon sa dalawa
+* [X] Buhay at kamatayan
+* No one knows how kamatayan is: may hypothetically be the best thing ever
+
+* "Ok Socrates we'll let you go if you stop philosophising"
+  * "That's the most useless win-win situation ever"
+  * **Tunay na Sarili**: Psyche/Soul
+  * Hindi ba yung matinong tao ay kumikilos sa mabuti/masama
+  * Mabubuhay na hindi magagawa ang siyang ninanais ng tunay kong sarili
+    * Parang na ding pinatay
+
+* "Wala akong ginaha kung di [remind you] na ipagtiyagaan mo lang ay hanapin/habulin ang iyong sarili"
+* **Hedonismo/Hedone**/Doxa
+* Pera: Hindi mabuti, nasa kabutihan
