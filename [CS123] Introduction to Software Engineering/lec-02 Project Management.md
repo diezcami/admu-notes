@@ -17,3 +17,27 @@
 
 ## CPM (Critical Path Method)
   * Get task durations and dependencies [ACTIVITY : DURATION : DEPENDENCIES]
+
+## Agile
+* Very focused on coding
+* Little to no documentation
+* Simple/Elegant designs
+* There's a lot of refactoring in Agile methodologies
+* Iterative with a version of improvement in each iteration
+* Large advantage: A new version will be finished every 3 weeks
+* Stand-up meetings
+  * What have you done
+  * What are you working on
+  * (Check the slides)
+
+* **http://extremeprogramming.org/map/project.html**
+  * **Release Planning**
+    * Similar to what happens during sprints, you get user stories and list them
+    * Out of the list, decide on the priorities
+    * eg. First release does features 1-7, then 8-10 etc
+  * **Iteration**
+    * Outputs to the latest version
+    * Needs to run acceptance tests (many of which are integration testing)
+* **http://extremeprogramming.org/map/code.html**
+  * Unit tests, merciless refactoring
+  * Driving force: figuring out what kinds of tests needed to be worked on
