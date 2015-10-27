@@ -66,3 +66,7 @@
 * "Wala akong ginaha kung di [remind you] na ipagtiyagaan mo lang ay hanapin/habulin ang iyong sarili"
 * **Hedonismo/Hedone**/Doxa
 * Pera: Hindi mabuti, nasa kabutihan
+
+
+* "Si Sokrates na wala nang ginawa kung di [paglingkuran!??!}] ang Athena, pero ang resulto nito ay napabayaan na niya ang pamilya niya - makatarungan ba iyon?"
+* Si Sokrates nangarap pumasok sa politika: sa dulo ayaw niya masira
