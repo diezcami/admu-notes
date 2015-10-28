@@ -70,3 +70,10 @@
 
 * "Si Sokrates na wala nang ginawa kung di [paglingkuran!??!}] ang Athena, pero ang resulto nito ay napabayaan na niya ang pamilya niya - makatarungan ba iyon?"
 * Si Sokrates nangarap pumasok sa politika: sa dulo ayaw niya masira
+* Philosophy of Education: "Hindi ako naging guro ninuman, wala akong tinura na kaalaman"
+  * Tunay na guro: Wala namang tinuturo - nagbibigay lamagn ng sapat na kalagayana para ang estudyante mismo ang makatuklas
+  * Intensyon: Makagising ang tao sa ignoransya: yung lang ang tinuturuan ni Sokrates na gawin
+  * Bakit maraming interesante sa pilosopiya? Hindi nakakabagot/boring
+
+* Best people to ask if Socrates has been a bad influence: his students
+  * What if you told your students not to tell the truth? ask their relatives

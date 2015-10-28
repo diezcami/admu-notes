@@ -45,3 +45,5 @@
 * **Lived in the outskirts of Madrid**
   * Bought bath, candles, matches and laundry service: implied the lack of his facilities to do them himself
 * **Odly enough it would appear that, contrary to the **general assumption, he never got his doctorate in medicine** although he took and passed the course in the history of medicine, surgical analysis and normal histology 1884-1885. He never submitted his doctoral thesis, and was only issued a licentiate degree.
+
+**Elias**: Pays so much defence to Ibarra, not simple gratitude (What is his motive?)

@@ -45,3 +45,12 @@
 * **Lived in the outskirts of Madrid**
   * Bought bath, candles, matches and laundry service: implied the lack of his facilities to do them himself
 * **Odly enough it would appear that, contrary to the **general assumption, he never got his doctorate in medicine** although he took and passed the course in the history of medicine, surgical analysis and normal histology 1884-1885. He never submitted his doctoral thesis, and was only issued a licentiate degree.
+
+* **The Hoist**
+* **The Reduccion**
+  * Padre Damaso started to attack CI on the incident regarding the hoist
+  * What CI's doing is considered a sin: achieving more than what you're designed for
+  * Realizes Damaso is the key to San Diego's unfortune: Maria Clara told him to let it go
+  * Damaso insulted CI further, MC protected Padre Damaso
+  * Couldn't believe why they were both so protective of each other
+  * Excommunicado, Filibustero
