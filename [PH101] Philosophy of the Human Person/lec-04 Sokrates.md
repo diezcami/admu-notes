@@ -77,3 +77,16 @@
 
 * Best people to ask if Socrates has been a bad influence: his students
   * What if you told your students not to tell the truth? ask their relatives
+
+* **Eironeuomenos**: Isang nagkukunwari
+  * "Ang walang alam ay marunong": Isip ng taong nagkukunwari si Sokrates
+* **Eironeia**: Ironya/Irony
+  * Eironeia ni Sokrates: Isang uri ng pamumuhay na naniniwala sa kilos ng **techne ng pagpapakatao**
+    * Techne: Ginagamit sa malalim na pag-uunawa sa materyal
+    * Ang pagiging tao ay techne rin: Nagsisimula ang lahat sa isang uri ng pagsasaliksi ng pagiging tao 
+
+* Ideya ng kaayusan: Nagkakaroon ng malay hindi lamang sa sarili pero sa buong kabuuan din ng ayos
+  * Hindi pwedeng mauwi sa doksa
+* Mula sa pag-amin na wala akong alam, dun talaga ako nagiging marunong
+  * At sa pag-amin ng pagiging marunong, nalalaman ko ang tunay na pagkilos na malaman ang talagang nararapat na galaw para sa akin
+* *Read commentary of Ferriols*
