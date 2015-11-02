@@ -19,3 +19,6 @@
 ## The Functionalist View
 * Inequality helps societies survive: stratification of society is inevitable because some positions in society are more important than others
 * How do we know that positions offer higher rewards are more important? [Social Construct]
+
+## Conflict Perspective: CLass Conflict and Scarce Resources
+* **Karl Marx**
