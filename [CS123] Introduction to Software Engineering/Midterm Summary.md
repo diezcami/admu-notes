@@ -56,14 +56,14 @@
   * Programming&Logic: 1/3
   * Design: 1/2
 
-## Computation of Costs
-* Requirements: 1
-* Specification/Analysis: 2
-* Planning: 3
-* Design: 4
-* Implementation: 10
-* Integration: 30
-* Maintenance: 200
+## Computation of Costs (Practice Exercises)
+* **Requirements**: 1
+* **Specification/Analysis**: 2
+* **Planning**: 3
+* **Design**: 4
+* **Implementation**: 10
+* **Integration**: 30
+* **Maintenance**: 200
 
 ## Maintenance
 * **Classical Maintenance**: 
