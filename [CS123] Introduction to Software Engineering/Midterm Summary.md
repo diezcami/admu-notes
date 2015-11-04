@@ -124,19 +124,60 @@
   * Back-up programmer must be as good as the chief programmer, with a lower salary to stay in the back seat
   * Programming secretary does nothing but paperwork all day
 
-* **Problems of CP and Democratic Teams**
-  * Make use of democratic and CP teams, and handle more programmers
-    * Democratic: Positive attitude in finding faults
-    * CPT: Code walkthroughs or inspections
-  * Chief Programmer Pitfall
-    * Personally responsible for code, and must be present at reviews
-    * Also the team manager, and must not be present at reviews (**SOLUTION**: Remove managerial role, easier to find a leader than a CP)
-
+## Problems of CP and Democratic Teams
+* Make use of democratic and CP teams, and handle more programmers
+  * Democratic: Positive attitude in finding faults
+  * CPT: Code walkthroughs or inspections
+* Chief Programmer Pitfall
+  * Personally responsible for code, and must be present at reviews
+  * Also the team manager, and must not be present at reviews (**SOLUTION**: Remove managerial role, easier to find a leader than a CP)
+* **Solution**
+  * Team Leader
+    * Responsible for technical management
+    * Participates in reviews
+  * Team Manager
+    * Participates in regular team meetings to appraise technical skills
+    * Budgetary and legal issues
+  * For Larger Projects: Decentralize the decision-making process where appropriate (Useful where the democratic team is good)
 
 ## Synchronize and Stabilize
+* Used by Microsoft
+* 3-4 Sequential Builds
+* Small parallel teams (3-8 devs, 3-8 testers)
+* Daily synchronization step, individual components always work together
+* **Analogy**: Letting children do what they want with a 9PM deadline
+* A way of allowing a group of hackers to develop large products
+
 ## Agile Processes
+* **Pair Programming**
+* **Collective Ownership (Democratic)**: No layers between managers and engineers, centralized computers (egoless programming)
+* Programmers should not test their own code (done by pair)
+
 ## Open Source
+* No meetings, managers, specs/designs, documentation
+* Individuals contribute to open source projects for:
+  * Sheer enjoyment of accomplishing a worthwhile task
+  * Learning experience
+* Software professionals contribute to gain new skills for a promotion or better job offers
+* Open source project > Additional academic qualifications
+* Key individual behind OSP should be a superb motivator, and core group must have good skills
+  * Thrive in the unstructured environment of an open source team
+* **Key points for success**
+  * Nature of the target product
+  * Personality of the instigator
+  * Talents of the members of the core group
+
 ## People Capability Maturity Model
+* **CMM Ranking**: Developed by SE Institute to measure the capability of part of an organization to develop software
+* Framework for managing and developing an organization's work force
+  * No specific approach to team organization (depends on product, leaders and previous experiences)
+  * Can have high capability with no accomplishment
+
+## Conclusion
+* **Prisoner Dilemma**: People tend to compete even when they gain from cooperation (Lack of Trust)
+* Teamwork is essential for software development. As a result, conflict between the contribution to the teamwork and the way in which rewards are shared may intensify
+* Management of software development teams and communication among team members are complex issues
+* Software developers are usually highly motivated. Their motivation can cause conflicts between personal targets and team goals.
 
 # Software Project Management
 
