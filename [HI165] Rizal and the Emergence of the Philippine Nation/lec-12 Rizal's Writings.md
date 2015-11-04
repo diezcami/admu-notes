@@ -56,7 +56,8 @@
     * Violent revolution covered by venge and anger
 
 ## Rizal's Exile
-* Was exiled to **Dapitan, Zamboanga** because he was seen as a troublemaker
+* **He cannot start a revolution**: He doesn't have an army, so there's no way he can do anything
+  * No reason to execute, so was exiled to **Dapitan, Zamboanga** because he was seen as a troublemaker
 * **Became a doctor**: **Josephine Bracken** (her father's eyesight was degrading)
   * Josephine Bracken had a miscarriage
     * Fell from the stairs from Rizal surprising her
@@ -64,7 +65,30 @@
   * Fetus buried underneath Rizal's house at Dapitan
 * **Became a teacher**
 * **Became an adviser**
-  * KKK
+  * Was visited by the KKK and asked what was needed to become successful (in Dapitan) 
   * Dangerous to stay in Zamboanga because he'd be implicated: decided to go to Cuba and become a military doctor
-  * Revolution started before he was able to leave
-* **Got brought back to Intramuros, Manila**
+  * Revolution started on his way to Cuba
+* **Got brought back to Fort Santiago/Intramuros, Manila**
+  * Defended himself: claimed he was not part of the KKK and had no knowledge of the revolution
+  * The Katipunan. Rizal was the honorary president of the Katipunan (same thing as Liga), and whose purpose were to proclaim the independence of the Philippines, make Rizal supreme leader and kill the Spaniards. His photograph was displayed in the Katipunan's headquarters. Shortly before the insurrection.
+  * **Rizal's Rebuttals**: 
+    * I know nothing of the Katipunan and have no relations or correspondence with them.
+    * I don't know Andres Bonifacio either. 
+    * Getting the photograph must have been easy. 
+    * I gave no permission for the use of my name. 
+    * Someone has alleged that I was the leader - what kind of leader is that who is not even consulted on plans, and is only given notice of them so that he can escape?
+      * Somehow feels like what happened to Ibarra in Noli
+      * Idea: Andres Bonifacio could've framed Jose Rizal in the plot of the Katipunan, where he has 2 choices - to join the revolution or to face death
+        * If Rizal joins, people would follow and join as well (An ilustrado joining)
+        * If Rizal dies, use him as a rallying cause
+* **Rizal's Execution**
+  * Big deal: First time they execute an ilustrado
+  * Met his wife: Josephine Bracken (married for a few hours)
+  * He wrote his final magnum opus: **Mi Ultimo Adios**
+    * Smuggled the letter in an oil lamp and gave it to his sister
+  * Last meal: Eggs/Cuevos. He peeled the hardboiled eggs and gave it to the rats, so they could have a feast when he died.
+  * Walk to Luneta
+  * **Did he know he was going to become a hero?**
+    * Everything looked so rehearsed
+    * His steps were really small
+    * Managed to preserve his legacy - case in point with Andres Bonifacio where we know nothing about him

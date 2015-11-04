@@ -74,7 +74,7 @@
   * **Post-delivery Maintenance**: After delivery/installation
   * **(Modern) Maintenance**: Performed at any time
   * **Pros**: Software is constantly changing, good software is maintained for 10-20 years
-
+  
 ## Testing and Documentation
 * **Testing**
   * **Verification**: Done at the end of each phase
@@ -85,6 +85,58 @@
   * Must be performed in parallel with all other development/maintenance activities
 
 # Team Management
+## Democratic Team
+* Egoless Programming: because programmers can be highly attached to their code
+* Group of up to 10 egoless programmers will develop an ethos/group identity and be encouraged to find faults in code
+* Characterised by everyone being equal: competence = sum of its parts
+* Organizational Structure: Regular Polygon
+* **Strengths**
+  * Productive and work best when problem is difficult
+  * Function well in a research environment and easy to replace members
+* **Difficulties**
+  * Beginners are treated as experienced programmers
+  * Management may have difficulties (no one is in charge or responsible)
+  * Communication problems when members > 5 (reaching a consensus)
+
+## Classical Chief Programmer Team
+* Made to solve difficulties in terms of communication channels
+* Analogy: Chief surgeon directing an operation
+* Key Aspects: **Specialization** and **Hierarchy**
+* **Chief Programmer**
+  * Successful manager and highly skilled programmer
+  * Allocates coding and does architectural design
+  * Writes and reviews critical parts of the code
+  * Personally responsible
+* **Back-up Programmer**
+  * As competent as the chief programmer
+  * Black box test case planning and other tasks independent of design process
+* **Programming Secretary**
+  * Maintains program production library (documentation) such as source code listings and test data
+  * Converts code to machine-readable form - compiled, linking, running test cases, etc
+* **Programmers**
+  * Do nothing but program
+  * All other aspects handled by the programming secretary
+* **The New York Times Project**
+  * Chief: F. Terry Baker
+  * Only success story for chief programmer teams
+* **Impracticality**
+  * Chief programmer must be a highly skilled programmer and successful manager (difficult to find)
+  * Back-up programmer must be as good as the chief programmer, with a lower salary to stay in the back seat
+  * Programming secretary does nothing but paperwork all day
+
+* **Problems of CP and Democratic Teams**
+  * Make use of democratic and CP teams, and handle more programmers
+    * Democratic: Positive attitude in finding faults
+    * CPT: Code walkthroughs or inspections
+  * Chief Programmer Pitfall
+    * Personally responsible for code, and must be present at reviews
+    * Also the team manager, and must not be present at reviews (**SOLUTION**: Remove managerial role, easier to find a leader than a CP)
+
+
+## Synchronize and Stabilize
+## Agile Processes
+## Open Source
+## People Capability Maturity Model
 
 # Software Project Management
 
