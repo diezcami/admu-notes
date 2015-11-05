@@ -39,13 +39,6 @@
   * Definition/Analysis: Planning, Requirements, Design
   * Development: Coding, Testing
   * Maintenance: Bug fixes, Updates (Perfect/Adaptive), Change Requirements => Retire
-* **Waterfall Life Cycle Model**: 
-  * Requirements: Explore the concept, get client requirements
-  * Analysis: "What is the product supposed to do?" (Specification Document, Project Management Plan)
-  * Design: "How the product does it" (Architectural design)
-  * Implementation: Coding, Integration, Testing
-  * Maintenance: Corrective (Bugs), Perfective (Performance/Functionality), Adaptive (Environment)
-  * Retirement
 * **Relative Costs**: The earlier we detect and correct a fault, the less it costs us
   * Coding: 1/6
   * Analysis&Design: 1/3
@@ -180,5 +173,208 @@
 * Software developers are usually highly motivated. Their motivation can cause conflicts between personal targets and team goals.
 
 # Software Project Management
+* Proper time and budget estimation
+* **Planning and the Software Process**
+  * Accuracy of estimation increases as the process proceeds (Earliest appropriate time: End of analysis)
+  * Cone of Uncertainty (RADI)
+* **Break Even Point**
+  * Fixed Cost vs Variable Cost, where revenue = total cost
+  * Reduce fixed cost and change to variable cost (Overall profit, productivity based wages)
+* **Estimating Duration and Cost**
+  * Internal Cost: Developer team, personnel, hardware/software, utilities, etc
+  * External Cost: Price client will pay
+  * **Size Metrics**:
+    * **Lines of Code**: Not really practical
+    * **FFP**: Files (Transaction Records), Flows (Data Interfaces eg. Screen, Report) and Processes (Logical/Arithmetic Maniplation of Data)
+      * Size = Sum of everything
+      * Cost = b (constant of efficiency)
+      * Problem: Never extended to include databases
+    * **Function Point**
+      * FP = (4Inp)+(5Out)+(4Inq)+(10Maf)+(7Inf)
+      * Input, Output, Inquiry Types, Master Files, Interfaces
+      * Problem: Maintenance can be inaccurately measured
+    * **Techniques of Cost Estimation**
+      * **Delphi Technique**: Compare target to completed products, result of estimation by a broad group of experts
+        * Ask a series of questions, aggregate results fed back
+        * Each individual asked if they wish to change their forecast
+          * Iterative until no one changes their forecast or consensus is reached
+      * **Bottom-up Approach**
+        * Process-level costing, can be done using object-oriented paradigm
+        * Weakness: A product is worth more than the sum of its components
+* **Components of a Software Project Management Plan**
+  * **Work to be done**
+    * **Work Categories**
+      * Project Function (Work carried throughout project)
+      * Activity (Major units of work eg. budget, design schedules, source code)
+      * Task (Minor units of work; activity that comprises a set of tasks)
+    * **Milestone**: The date on which work product is to be completed (Becomes a baseline after review)
+    * Work Package: Product + Staffing requirements, acceptance criteria, detailed budget, etc
+  * **Resources with which to do it**
+    * Rayleigh Curves
+      * Effort = 0.3945K
+      * K = total manpower required or area under Rayleigh Curve
+      * 40% development, 60% maintenance
+  * **The money to pay for it**
+* **Software Project Management Plan Framework**
+  * eg. **IEEE Standard 1058.1**: Ideal for Unified Process and supports process improvement
+* **Project Scheduling**
+  * Identify Activities (Software Requirements)
+  * Identify Activity Dependencies
+  * Estimate resources for activities
+  * Allocate people to activities
+  * Create project charts
+  * **Critical Path Method**: Refer to other notes
+* **Planning Testing**
+  * Traceability, must state what testing is to be done
+  * Black box test cases must be drawn as soon as specs are complete
+* **Planning OO Projects**
+  * Whole > Sum of its parts
+  * Reuse induces errors in cost and duration estimates
+* **Training Requirements**
+  * Users and members of the development group need training, even in software planning
+    * Introduction to hardware/software tools
+    * Training in OS or implementation language
+    * Documentation Preparation
+  * Train computer operators
+* **Documentation Standards**
+  * For every 100hrs spent on coding, 150-200 were spent on documentation activities
+    * Planning, Control, Financial, Technical, Source Code, Comments
+  * Standards assist maintenance programmers
+  * The product is the documentation
+* **CASE tools for planning and estimating**
+  * Management tools to assist with planning and monitoring
+  * Word processor and Spreadsheet
+* **Testing SPMP**
+  * Check the SPMP as a whole
+  * Most important: **Duration and Cost Estimates**
 
 # Software Life Cycle
+* **Types of SLC Activities**
+  * Feasibility and Market Analysis
+  * Requirements Engineering
+  * Project Planning
+  * Design
+  * Implementation
+  * Testing
+  * Delivery
+  * Maintenance
+
+##Code and Fix
+  * Implement first version
+  * Modify until client is satisfied
+  * Postdelivery Maintenance
+  * Retire
+
+## Waterfall
+* **One phase after another**: Documentation approved by SQA group
+* Feedback loops, documentation driven, DFD/UML
+* **Steps**
+  * Requirements: Explore the concept, get client requirements
+  * Analysis: "What is the product supposed to do?" (Specification Document, Project Management Plan)
+  * Design: "How the product does it" (Architectural design)
+  * Implementation: Coding, Integration, Testing
+  * Maintenance: Corrective (Bugs), Perfective (Performance/Functionality), Adaptive (Environment)
+  * Retirement* **Rapid Prototyping**
+* **Advantages**
+  * Standardised series of steps (no important aread overlooked)
+  * Formal contract: Evidence to arbitrate disputes
+  * Suitable for large projects
+  * Documentation and Maintenance are easier
+* **Disadvantages**
+  * Difficult to change user requirements
+  * Poor communication between user and developer = wrong specification = RIP
+  * Very low user involvement; Users sign documents they don't understand
+
+## Rapid Prototyping Model
+* Emphasises User Involvement, Protoype, Reuse and Automated Tools
+* Literally the waterfall model applied successively
+* **SWAT**: Skilled With Advanced Tools Team (Builds prototypes rapidly)
+* Mostly GUI, no real functionality: Users get to try it out
+* **Advantages**
+  * Improves flexibility (User involvement and communication)
+  * Suitable for in-house development (paid by time)
+  * Prototype gives insight to design team
+  * Requirements and problems are clearer/earlier detected
+* **Disadvantages**
+  * Extensions of devleopment schedules
+  * Building a prototype quickly requirs an experienced team
+  * Users may make unnecessary cchanges
+* **Iterative and Incremental**
+* Miller's Law: Can only retain ~7 chunks of information
+* **Stepwise Refinement**: Philosophy of continuous improvement
+* Doing 7 requirements after sorting them in order of importance 
+* **Iteration**: Continuous improvement; each version is closer to the target
+* **Increment**: Piece by piece construction. Each increment goes through multiple versions
+* **Strengths**:
+  * Multiple opportunities to check if the product's correct
+  * Robustness of architecture determined early
+  * Resolve risks early
+  * Working version of software from the start
+  * Empirical evidence that it works
+
+## Agile
+* **User Stories**
+* Pair Programming
+* Stand-Up Meetings: Stand in a circle, last no more than 15 minutes
+  * Aim: Raise problems, not solve them
+* Agile: Ability to respond to change
+* **Manifesto of Principles**
+  * Individuals&Interactions > Processes&Tools
+  * Working Software > Comprehensive Documentation
+  * Customer Collaboration > Contract Negotiation
+  * Responding to Change > Following a Plan
+* Deliver software ideally every 2-3 weeks using **timeboxing** as a time-management technique
+* **Properties**
+  * Iterative Development
+  * Adaptable: Evolves with each iteration
+  * People-Centric: Developers and Management Equal
+* Successful for small-scale software development
+  * Key decider: Impact of agile processes on post-delivery maintenance
+
+## Extreme Programming
+* Specific instantiation of an agile process
+* Addresses the problems of quickly delivering software and evolving it to meet changing needs
+* Emphasisses team work, customer participation and concentration in the essential 
+* Not a complete framework, but has some principles/features to follow
+  * A client representative is always present
+  * Refactoring
+* Turn up the knob to 10 on each practice (eg. continous code reviews, testing, integration, refactoring, refinement)
+* **Activities**
+  * **Product**: Requirements and Priorities (Stories)
+  * **Release**: Stories are analysed and prioritised, Developer determines technical approach & estimates (Release Plan)
+  * **Iteration**: Task Breakdowns (Iteration Plan and Deployable System)
+  * **Task** Developers sign up for tasks and begins to implement, Acceptance Tests, Evaluate how full iteration is
+  * **Episodes**: Pair partners do daily devel
+* **YAGNI**: You aren't gonna need it
+* **DTSTTCPW**: Do the simplest thing that could possibly work
+
+## Open Source
+* **Two Informal Phases**
+  * Individual builds an initial version
+  * If there's sufficient interests, users become co-developers
+    * Reporting an correcting defects
+    * Adding additional functionality
+    * Porting the program to a new environment
+    * **Post-delivery maintenance**
+* Failure reports (behaviour), but also fault reports (incorrect source code)
+* Maintained by unpaid volunteers
+
+## Synchronize and Stabilize
+* Divide project into 3-4 builds carried out by small teams working in parallel
+* **Synchronize**: Integrate component, test and debug
+* **Stabilize**: Freeze the build, fix bugs
+* Components always work together: Flexible modifications and early insights into operation of the product
+
+## Spiral
+* Rapid prototyping model plus (alternatives and) risk analysis before each phase, and evaluation/planning of the next phase afterwards [Full Spiral]
+* Risk Analysis: Identify the sub-problem with the highest associated risk, find a solution
+* **Advantages**
+  * No distinction between development and maintenance
+  * Easy to judge how much to test
+* **Disadvantages**
+  * For large scale software only
+  * Early termination
+
+## Risks in Software Development
+* We want to minimize risks
+  * Possible solutions: Prototypes, Proofs of concept
