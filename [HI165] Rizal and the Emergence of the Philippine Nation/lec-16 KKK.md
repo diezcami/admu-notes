@@ -47,8 +47,28 @@
 * Attacked 100 Spanish defending Power of Magazine in the Battle of Pinaglabanan and lost
   * Gov. Gen. Camilo de Polavieja declared Martial Law in Manila, Cavite, Laguna, Batangas, Bulacan, Pampanga, Tarlac, Nueva Ecija (8 Provinces, 8 Rays)
   * Start of Revolution, "Beginning of the End"
-  * **Tejeros Convention**: Cavite
-  * First mistake of Bonifacio: Cavite was the territory of Emilio Aguinaldo
+  * **Tejeros Convention**: Cavite, 1897
+    * First mistake of Bonifacio: Cavite was the territory of Emilio Aguinaldo
+    * Daniel Tirona: "The position of the director of interior is not befitting for Bonifacio - it should be occupied by someone knowledgeable of the law"
+    * Said the elections were null and void, walked away
+  * **Second Meeting at Tejeros**
+    * Aguinaldo notified he won previous election
+    * Bonifacio and 45 men met at the state
+    * Insults of Tirona
+    * **Acta de Naic**
+      * Bonifacio discussed the irregularities of the elections and decided to null and void it
+      * He is establishing a different and separate state from Aguinaldo
+      * Condemns the election in the Tejeros convention
+    * Beginning of Bonifacio being seen as committing treason
+  * **The Arrest**
+    * 1897: General Mariano Noriel: Writing a report to Aguinaldo for the arrest of Bonifacio in Limbon Cavite
+    * Colonel Agapito Bonzon (Kolonel Yntong): Head arresting officer
+      * Arrived at the house of Bonifacio where he was resting, introduced themselves as the Katipunan who wanted to protect them
+      * Bonifacio gave them cigarettes and offered food
+      * Next day, tone was different: "Come out, you coward who stole the money of this organization" + Bonifacio's house was surrounded
+      * Breast in a brown shirt being hit: Ciriaco
+      * Col. Ignacio Pawa: Used a dagger to attempt killing Bonifacio
+        * Orders were not only to arrest him, but to kill him
 
 ## Two Factions
 * **Magdiwang**
@@ -57,3 +77,7 @@
 * **Magdalo**
   * Led b Emilio's cousin, Baldomero Aguinaldo
   * Organization's head: "Heneral Miong" (Emilio Aguinaldo) due to his successes in the battlefield
+
+## The Execution
+* Maragondong
+* Major Lazaro Makapagal: I'm not executing you, just following orders
