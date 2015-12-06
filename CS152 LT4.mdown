@@ -1,4 +1,51 @@
 # Caching
+* **Random Terms**
+  * TLB: Translation Lookaside Buffer
+  * BIOS: Basic IO System
+  * FPGA: Field Programmable Array
+  * DDR: Double Data Rate
+* **Problem with Capacitors**
+  * Charge is lost when reading => Need to rewrite
+  * Capacitors are slow (Capacitance=>RC Delay=>Delay)
+* **Caches**
+  * Temporal Locality: Same location will be accessed
+  * Spatial Locality: Similar locations will be accessed
+* **Searching Tags**
+  * **Direct Mapped Cache**
+    * Address is in one place
+    * Cheaper (1 Comparator/Cache)
+  * **Set-Associative Cache**
+    * Address in a few (2-8) places (Parallel Lookup within Sets)
+    * Set: Lines with the same index
+    * N Comparators: Pricier than direct mapped, better hit rates
+  * **Fully Associative Cache**
+    * Address is anywhere in the cache (Parallel Lookup)
+    * Very expensive and slower (1 Comparator/Line)
+* **Parts of a Cache**
+  * Word: 32 Bits/4 Bytes
+  * Block: Data words read by cache at the same time
+  * Line: Stores block, tag, valid bit, dirty bit, etc
+  * Set: Group of blocks where a particular address can be placed in the cache
+* **How address is divided**
+  * Block offset: Chooses 1 byte within a block
+  * Index: Chooses which set to check
+  * Tag: Check if line contains desired address 
+* **Valid Bits**: 0/1, Flush
+  * **Associative Caches**: LRU, Random, FIFO
+  * Write Through: Write to MM and Cache
+  * Write Back: Write Cache, MM only if block is replaced
+    * **Dirty Bit**: Data's edited in cache but not in memory
+* **Cache Misses**
+  * **Compulsory**
+    * Data isn't in cache yet
+    * Increase block size to prefetch data (Cache gets full too quickly, may lead to more capacity/conflict misses)
+  * **Capacity**
+    * [Fully Associative] Data was replaced because cache was full
+    * Increase cache size (longer delays)
+  * **Conflict/Collision**
+    * Lack of Associativity: Indirect replacement
+    * Increase associativity (more blocks per set; more hardware, longer delays)
+    * Doesn't happen in a fully associative cache
 
 # Beta Hardware
 * **Incremental Design**
