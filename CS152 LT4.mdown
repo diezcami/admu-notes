@@ -1,0 +1,49 @@
+# Caching
+
+# Beta Hardware
+* **Incremental Design**
+  * Divide instructions into various classes
+  * Individual data paths then merge
+  * **Datapath Components**: ALU, MUX, Register, Instruction Memory, Data Memory
+  * **2 Forms**: OPCODE, RC, RA, RB or C
+* **2 Port Register File**
+  * 2 Combinational read ports
+  * 1 Clocked write port
+  * 1 Data input (WD), 2 Output (RD1, RD2)
+* **XP: Handling Exceptions**
+  * Faults: CPU/System (Synchronous)
+  * Traps: CPU (Synchronous)
+  * I/O: External (Asynchronous)
+* **ALUFN**
+  * 00: Add, Subtract
+  * 01: Boolean
+  * 10: 00(PAD?)(SHR?)
+  * 11: 0(>)(=)1
+* **Instructions**
+  * PCSEL: Next line (0), Branch (1), Jump (2)
+  * RA2SEL: Storing?
+  * BSEL: Using a constant?
+  * WDSEL: Answer from Instruction (0), ALU (1) or Memory (2)
+  * ALUFN (6)
+  * WR: Writing to Memory?
+  * WERF: Writing to Register?
+
+# Parallel Processing
+* **Moore's Law**: Processors double in speed every 1-2 years
+* **Aggressive Pipelining**
+  * **Super Pipelining**: Sacrifice latency (number of stages in a system) of ALU and Data Memory (Lower minCLK, higher stalls)
+  * **Out of Order Execution**: Doing later independent instructions while waiting for others to finish (Problem: DP)
+  * **Branch Prediction**: Prefetching branches run usually more than once (eg. While Loop)
+* **Instruction-level Parallelism** (Problem: Dataflow Parallelism)
+  * **Superscalar**: Duplicating components to finish more than one instruction per cycle (Lower CPI => Higher MIPS)
+  * **Very Long Instruction Word**: eg. Feeding 16 bit instructions to an 8 bit machine
+* **Process-Level Parallelism**
+  * **Hyper Threading**
+  * **Symmetric Multiprocessing**: Up to 32 or so processors before adding them becomes redundant (eg. Adding N numbers)
+* **Distributed Parallelism**
+  * **Clusters**: Several computers connected by a high speed network, using a MPI (Message Passing Interface)
+  * **Grid Computing**
+    * Geographically distributed parallel processing (Slower networks, more computers)
+    * Using the net to let computing power be a trade-able commodity
+    * Can use clusters as grid nodes
+  * **Cloud Computing**: Evolved Grid Computing (More reliable, better quality, more user friendly eg. Dropbox, Google)
