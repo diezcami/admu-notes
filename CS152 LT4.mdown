@@ -31,7 +31,7 @@
 # Parallel Processing
 * **Moore's Law**: Processors double in speed every 1-2 years
 * **Aggressive Pipelining** (SOB)
-  * **Super Pipelining**: Sacrifice latency (number of stages in a system) of ALU and Data Memory (Lower minCLK, higher stalls)
+  * **Super Pipelining**: Sacrifice latency (number of stages in a system) of ALU and Data Memory (Lower minCLK [Higher Frequency=>Higher MIPS], higher stalls)
   * **Out of Order Execution**: Doing later independent instructions while waiting for others to finish (Problem: DP)
   * **Branch Prediction**: Prefetching branches run usually more than once (eg. While Loop)
 * **Instruction-level Parallelism** (SV) (Problem: Dataflow Parallelism)
@@ -39,7 +39,12 @@
   * **Very Long Instruction Word**: eg. Feeding 16 bit instructions to an 8 bit machine
 * **Process-Level Parallelism** (SH)
   * **Hyper Threading**
-  * **Symmetric Multiprocessing**: Up to 32 or so processors before adding them becomes redundant (eg. Adding N numbers)
+  * **Symmetric Multiprocessing**
+    * Multiple Independent CPU's, Shared memory but individual caches per processor
+    * Up to 32 or so processors before adding them becomes redundant (eg. Adding N numbers)
+    * **Embarrassingly Parallel** (eg. Adding N Numbers)
+      * Each part is independent
+      * Processors can work without waiting or communicating except to a "master processor"
 * **Distributed Parallelism** (CCG)
   * **Clusters**: Several computers connected by a high speed network, using a MPI (Message Passing Interface)
   * **Grid Computing**
@@ -47,3 +52,7 @@
     * Using the net to let computing power be a trade-able commodity
     * Can use clusters as grid nodes
   * **Cloud Computing**: Evolved Grid Computing (More reliable, better quality, more user friendly eg. Dropbox, Google)
+* **Parallel Processing**
+  * Different types: SIMD, MIMD
+  * Centralised Shared Memory (SMP): Simpler memory, less scalable
+  * Distributed Memory: Scalable, each processor has own memory
