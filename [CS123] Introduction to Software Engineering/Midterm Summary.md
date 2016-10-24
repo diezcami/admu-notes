@@ -62,6 +62,7 @@
 * **Classical Maintenance**: 
   * Develop-then-maintenance
   * Consequence: Development and Maintenance mostly depend on **when** they take place
+  * Classical Maintainance is done after installation, if not it is considered Classical Development
 * **Modern Maintenance**: 
   * "Process that occurs when a software artifact is modified because of a problem or because of a need for improvement or adaptation."
   * **Post-delivery Maintenance**: After delivery/installation
@@ -350,7 +351,6 @@
 
 ## Open Source
 * **Two Informal Phases**
-  * Key point: voluntary work
   * Individual builds an initial version
   * If there's sufficient interests, users become co-developers
     * Reporting an correcting defects
@@ -359,7 +359,6 @@
     * **Post-delivery maintenance**
 * Failure reports (behaviour), but also fault reports (incorrect source code)
 * Maintained by unpaid volunteers
-
 
 ## Synchronize and Stabilize
 * Divide project into 3-4 builds carried out by small teams working in parallel
