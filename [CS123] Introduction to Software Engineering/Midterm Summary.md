@@ -350,6 +350,7 @@
 
 ## Open Source
 * **Two Informal Phases**
+  * Key point: voluntary work
   * Individual builds an initial version
   * If there's sufficient interests, users become co-developers
     * Reporting an correcting defects
@@ -358,6 +359,7 @@
     * **Post-delivery maintenance**
 * Failure reports (behaviour), but also fault reports (incorrect source code)
 * Maintained by unpaid volunteers
+
 
 ## Synchronize and Stabilize
 * Divide project into 3-4 builds carried out by small teams working in parallel
