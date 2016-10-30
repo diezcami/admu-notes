@@ -1,0 +1,105 @@
+# Caching
+* **Random Terms**
+  * TLB: Translation Lookaside Buffer
+  * BIOS: Basic IO System
+  * FPGA: Field Programmable Array
+  * DDR: Double Data Rate
+* **Problem with Capacitors**
+  * Charge is lost when reading => Need to rewrite
+  * Capacitors are slow (Capacitance=>RC Delay=>Delay)
+* **Caches**
+  * Temporal Locality: Same location will be accessed
+  * Spatial Locality: Similar locations will be accessed
+* **Searching Tags**
+  * **Direct Mapped Cache**
+    * Address is in one place
+    * Cheaper (1 Comparator/Cache)
+  * **Set-Associative Cache**
+    * Address in a few (2-8) places (Parallel Lookup within Sets)
+    * Set: Lines with the same index
+    * N Comparators: Pricier than direct mapped, better hit rates
+  * **Fully Associative Cache**
+    * Address is anywhere in the cache (Parallel Lookup)
+    * Very expensive and slower (1 Comparator/Line)
+* **Parts of a Cache**
+  * Word: 32 Bits/4 Bytes
+  * Block: Data words read by cache at the same time
+  * Line: Stores block, tag, valid bit, dirty bit, etc
+  * Set: Group of blocks where a particular address can be placed in the cache
+* **How address is divided**
+  * Block offset: Chooses 1 byte within a block
+  * Index: Chooses which set to check
+  * Tag: Check if line contains desired address 
+* **Valid Bits**: 0/1, Flush
+  * **Associative Caches**: LRU, Random, FIFO
+  * Write Through: Write to MM and Cache
+  * Write Back: Write Cache, MM only if block is replaced
+    * **Dirty Bit**: Data's edited in cache but not in memory
+* **Cache Misses**
+  * **Compulsory**
+    * Data isn't in cache yet
+    * Increase block size to prefetch data (Cache gets full too quickly, may lead to more capacity/conflict misses)
+  * **Capacity**
+    * [Fully Associative] Data was replaced because cache was full
+    * Increase cache size (longer delays)
+  * **Conflict/Collision**
+    * Lack of Associativity: Indirect replacement
+    * Increase associativity (more blocks per set; more hardware, longer delays)
+    * Doesn't happen in a fully associative cache
+
+# Beta Hardware
+* **Incremental Design**
+  * Divide instructions into various classes
+  * Individual data paths then merge
+  * **Datapath Components**: ALU, MUX, Register, Instruction Memory, Data Memory
+  * **2 Forms**: OPCODE, RC, RA, RB or C
+* **2 Port Register File**
+  * 2 Combinational read ports
+  * 1 Clocked write port
+  * 1 Data input (WD), 2 Output (RD1, RD2)
+* **XP: Handling Exceptions**
+  * Faults: CPU/System (Synchronous)
+  * Traps: CPU (Synchronous)
+  * I/O: External (Asynchronous)
+* **ALUFN**
+  * 00: Add, Subtract
+  * 01: Boolean
+  * 10: 00(PAD?)(SHR?)
+  * 11: 0(>)(=)1
+* **Instructions**
+  * PCSEL: Next line (0), Branch (1), Jump (2)
+  * RA2SEL: Storing?
+  * BSEL: Using a constant?
+  * WDSEL: Answer from Instruction (0), ALU (1) or Memory (2)
+  * ALUFN (6)
+  * WR: Writing to Memory?
+  * WERF: Writing to Register?
+
+# Parallel Processing
+* **Moore's Law**: Processors double in speed every 1-2 years
+* **Aggressive Pipelining** (SOB)
+  * **Super Pipelining**: Sacrifice latency (number of stages in a system) of ALU and Data Memory (Lower minCLK [Higher Frequency=>Higher MIPS], higher stalls)
+  * **Out of Order Execution**: Doing later independent instructions while waiting for others to finish (Problem: DP)
+  * **Branch Prediction**: Prefetching branches run usually more than once (eg. While Loop)
+* **Instruction-level Parallelism** (SV) (Problem: Dataflow Parallelism)
+  * **Superscalar**: Duplicating components to finish more than one instruction per cycle (Lower CPI => Higher MIPS)
+  * **Very Long Instruction Word**: eg. Feeding 16 bit instructions to an 8 bit machine
+* **Process-Level Parallelism** (SH)
+  * **Hyper Threading**
+  * **Symmetric Multiprocessing**
+    * Multiple Independent CPU's, Shared memory but individual caches per processor
+    * Up to 32 or so processors before adding them becomes redundant (eg. Adding N numbers)
+    * **Embarrassingly Parallel** (eg. Adding N Numbers)
+      * Each part is independent
+      * Processors can work without waiting or communicating except to a "master processor"
+* **Distributed Parallelism** (CCG)
+  * **Clusters**: Several computers connected by a high speed network, using a MPI (Message Passing Interface)
+  * **Grid Computing**
+    * Geographically distributed parallel processing (Slower networks, more computers)
+    * Using the net to let computing power be a trade-able commodity
+    * Can use clusters as grid nodes
+  * **Cloud Computing**: Evolved Grid Computing (More reliable, better quality, more user friendly eg. Dropbox, Google)
+* **Parallel Processing**
+  * Different types: SIMD, MIMD
+  * Centralised Shared Memory (SMP): Simpler memory, less scalable
+  * Distributed Memory: Scalable, each processor has own memory
